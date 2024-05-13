@@ -29,9 +29,9 @@
 40,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,S,1.0,0.0,Union Berlin,2.8,0.3,65.0,22.012,Lukáš Hrádecký,3-4-3,Benjamin Brand,Spielbericht,,19.0,7.0,181.0,1.0,1.0,1.0,2024,Bayer Leverkusen
 42,14.04.2024,17:30,Bundesliga,Spielwoche 29,So.,Heim,S,5.0,0.0,Werder Bremen,3.2,0.7,56.0,30.21,Lukáš Hrádecký,3-4-3,Harm Osmers,Spielbericht,,19.0,9.0,162.0,0.0,1.0,1.0,2024,Bayer Leverkusen
 44,21.04.2024,17:30,Bundesliga,Spielwoche 30,So.,Auswärts,U,1.0,1.0,Dortmund,1.1,0.5,52.0,81.365,Lukáš Hrádecký,3-4-3,Daniel Siebert,Spielbericht,,13.0,3.0,194.0,3.0,0.0,0.0,2024,Bayer Leverkusen
-45,27.04.2024,18:30,Bundesliga,Spielwoche 31,Sa.,Heim,,,,Stuttgart,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayer Leverkusen
-47,05.05.2024,17:30,Bundesliga,Spielwoche 32,So.,Auswärts,,,,Eint Frankfurt,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayer Leverkusen
-49,12.05.2024,19:30,Bundesliga,Spielwoche 33,So.,Auswärts,,,,Bochum,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayer Leverkusen
+45,27.04.2024,18:30,Bundesliga,Spielwoche 31,Sa.,Heim,U,2.0,2.0,Stuttgart,1.4,1.7,49.0,30.21,Lukáš Hrádecký,3-4-3,Felix Zwayer,Spielbericht,,14.0,6.0,201.0,2.0,0.0,0.0,2024,Bayer Leverkusen
+47,05.05.2024,17:30,Bundesliga,Spielwoche 32,So.,Auswärts,S,5.0,1.0,Eint Frankfurt,2.7,1.9,45.0,58.0,Lukáš Hrádecký,3-4-3,Christian Dingert,Spielbericht,,7.0,4.0,220.0,0.0,2.0,2.0,2024,Bayer Leverkusen
+49,12.05.2024,19:30,Bundesliga,Spielwoche 33,So.,Auswärts,S,5.0,0.0,Bochum,4.2,0.3,67.0,26.0,Lukáš Hrádecký,3-4-3,Benjamin Brand,Spielbericht,,28.0,9.0,194.0,1.0,1.0,1.0,2024,Bayer Leverkusen
 50,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Augsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayer Leverkusen
 1,18.08.2023,20:30,Bundesliga,Spielwoche 1,Fr.,Auswärts,S,4.0,0.0,Werder Bremen,2.8,0.6,72.0,42.1,Joshua Kimmich,4-2-3-1,Felix Zwayer,Spielbericht,,25.0,10.0,191.0,1.0,0.0,0.0,2024,Bayern Munich
 2,27.08.2023,17:30,Bundesliga,Spielwoche 2,So.,Heim,S,3.0,1.0,Augsburg,2.8,0.7,61.0,75.0,Joshua Kimmich,4-2-3-1,Daniel Siebert,Spielbericht,,18.0,4.0,190.0,0.0,1.0,1.0,2024,Bayern Munich
@@ -63,9 +63,9 @@
 38,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,N,2.0,3.0,Heidenheim,1.9,1.4,67.0,15.0,Thomas Müller,4-2-3-1,Robert Schröder,Spielbericht,,15.0,7.0,144.0,0.0,0.0,0.0,2024,Bayern Munich
 40,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,S,2.0,0.0,Köln,2.2,0.9,69.0,75.0,Thomas Müller,4-2-3-1,Frank Willenborg,Spielbericht,,16.0,6.0,149.0,0.0,0.0,0.0,2024,Bayern Munich
 42,20.04.2024,18:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,S,5.0,1.0,Union Berlin,1.4,1.4,63.0,22.012,Manuel Neuer,4-2-3-1,Sven Jablonski,Spielbericht,,19.0,9.0,165.0,1.0,0.0,0.0,2024,Bayern Munich
-43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,,,,Eint Frankfurt,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayern Munich
-45,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,,,,Stuttgart,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayern Munich
-47,12.05.2024,17:30,Bundesliga,Spielwoche 33,So.,Heim,,,,Wolfsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayern Munich
+43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,S,2.0,1.0,Eint Frankfurt,3.3,0.5,62.0,75.0,Manuel Neuer,4-2-3-1,Daniel Schlager,Spielbericht,,19.0,7.0,178.0,0.0,1.0,1.0,2024,Bayern Munich
+45,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,N,1.0,3.0,Stuttgart,1.7,1.8,39.0,60.0,Manuel Neuer,4-2-3-1,Tobias Welz,Spielbericht,,9.0,2.0,171.0,0.0,1.0,1.0,2024,Bayern Munich
+47,12.05.2024,17:30,Bundesliga,Spielwoche 33,So.,Heim,S,2.0,0.0,Wolfsburg,0.3,0.1,59.0,75.0,Manuel Neuer,4-2-3-1,Bastian Dankert,Spielbericht,,6.0,3.0,178.0,1.0,0.0,0.0,2024,Bayern Munich
 48,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Hoffenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bayern Munich
 1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Heim,S,5.0,0.0,Bochum,3.0,0.8,60.0,53.0,Waldemar Anton,4-2-3-1,Daniel Siebert,Spielbericht,,21.0,9.0,166.0,0.0,0.0,0.0,2024,Stuttgart
 2,25.08.2023,20:30,Bundesliga,Spielwoche 2,Fr.,Auswärts,N,1.0,5.0,RB Leipzig,1.1,1.8,46.0,46.084,Waldemar Anton,4-2-3-1,Frank Willenborg,Spielbericht,,9.0,3.0,171.0,0.0,0.0,0.0,2024,Stuttgart
@@ -97,9 +97,9 @@
 31,06.04.2024,18:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,S,1.0,0.0,Dortmund,1.6,2.5,49.0,81.365,Atakan Karazor,3-4-3,Matthias Jöllenbeck,Spielbericht,,10.0,2.0,167.0,0.0,0.0,0.0,2024,Stuttgart
 32,13.04.2024,18:30,Bundesliga,Spielwoche 29,Sa.,Heim,S,3.0,0.0,Eint Frankfurt,1.2,0.6,54.0,60.0,Waldemar Anton,4-2-3-1,Deniz Aytekin,Spielbericht,,9.0,6.0,163.0,0.0,0.0,0.0,2024,Stuttgart
 33,21.04.2024,15:30,Bundesliga,Spielwoche 30,So.,Auswärts,N,1.0,2.0,Werder Bremen,2.2,1.5,69.0,42.1,Waldemar Anton,3-5-2,Robert Schröder,Spielbericht,,15.0,5.0,157.0,1.0,0.0,0.0,2024,Stuttgart
-34,27.04.2024,18:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,,,,Leverkusen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Stuttgart
-35,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,,,,Bayern München,,,,,,,,Direkter Vergleich,,,,,,,,2024,Stuttgart
-36,10.05.2024,20:30,Bundesliga,Spielwoche 33,Fr.,Auswärts,,,,Augsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Stuttgart
+34,27.04.2024,18:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,U,2.0,2.0,Leverkusen,1.7,1.4,51.0,30.21,Waldemar Anton,4-2-2-2,Felix Zwayer,Spielbericht,,11.0,4.0,171.0,0.0,0.0,0.0,2024,Stuttgart
+35,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,S,3.0,1.0,Bayern München,1.8,1.7,61.0,60.0,Waldemar Anton,4-2-2-2,Tobias Welz,Spielbericht,,24.0,9.0,204.0,0.0,0.0,0.0,2024,Stuttgart
+36,10.05.2024,20:30,Bundesliga,Spielwoche 33,Fr.,Auswärts,S,1.0,0.0,Augsburg,1.9,0.6,76.0,30.66,Waldemar Anton,4-2-2-2,Patrick Ittrich,Spielbericht,,19.0,7.0,166.0,0.0,0.0,0.0,2024,Stuttgart
 37,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,M'Gladbach,,,,,,,,Direkter Vergleich,,,,,,,,2024,Stuttgart
 1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,N,2.0,3.0,Leverkusen,1.6,1.4,56.0,29.464,Willi Orban,4-2-2-2,Felix Brych,Spielbericht,,14.0,6.0,155.0,0.0,0.0,0.0,2024,RB Leipzig
 2,25.08.2023,20:30,Bundesliga,Spielwoche 2,Fr.,Heim,S,5.0,1.0,Stuttgart,1.8,1.1,54.0,46.084,Willi Orban,4-2-2-2,Frank Willenborg,Spielbericht,,20.0,11.0,205.0,2.0,0.0,0.0,2024,RB Leipzig
@@ -131,9 +131,9 @@
 38,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,S,4.0,1.0,Freiburg,2.3,1.6,53.0,33.2,Willi Orban,4-2-2-2,Daniel Siebert,Spielbericht,,14.0,6.0,180.0,0.0,0.0,0.0,2024,RB Leipzig
 39,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,S,3.0,0.0,Wolfsburg,1.3,0.4,50.0,45.858,Willi Orban,4-2-2-2,Christian Dingert,Spielbericht,,16.0,6.0,150.0,0.0,0.0,0.0,2024,RB Leipzig
 40,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,S,2.0,1.0,Heidenheim,1.8,1.0,61.0,15.0,Willi Orban,4-2-2-2,Tobias Welz,Spielbericht,,12.0,4.0,149.0,0.0,0.0,0.0,2024,RB Leipzig
-41,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,,,,Dortmund,,,,,,,,Direkter Vergleich,,,,,,,,2024,RB Leipzig
-42,03.05.2024,20:30,Bundesliga,Spielwoche 32,Fr.,Auswärts,,,,Hoffenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,RB Leipzig
-43,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,,,,Werder Bremen,,,,,,,,Direkter Vergleich,,,,,,,,2024,RB Leipzig
+41,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,S,4.0,1.0,Dortmund,2.6,1.6,39.0,47.069,Willi Orban,4-2-2-2,Deniz Aytekin,Spielbericht,,21.0,7.0,186.0,0.0,0.0,0.0,2024,RB Leipzig
+42,03.05.2024,20:30,Bundesliga,Spielwoche 32,Fr.,Auswärts,U,1.0,1.0,Hoffenheim,0.8,1.6,45.0,25.066,Willi Orban,4-2-2-2,Harm Osmers,Spielbericht,,8.0,4.0,175.0,0.0,0.0,0.0,2024,RB Leipzig
+43,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,U,1.0,1.0,Werder Bremen,1.4,1.1,45.0,47.069,Willi Orban,3-4-3,Sascha Stegemann,Spielbericht,,13.0,5.0,173.0,0.0,0.0,0.0,2024,RB Leipzig
 44,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Eint Frankfurt,,,,,,,,Direkter Vergleich,,,,,,,,2024,RB Leipzig
 1,19.08.2023,18:30,Bundesliga,Spielwoche 1,Sa.,Heim,S,1.0,0.0,Köln,1.8,1.2,66.0,81.365,Emre Can,4-2-3-1,Deniz Aytekin,Spielbericht,,13.0,2.0,125.0,0.0,0.0,0.0,2024,Dortmund
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,U,1.0,1.0,Bochum,1.3,1.0,64.0,26.0,Emre Can,4-1-4-1,Robert Schröder,Spielbericht,,14.0,3.0,154.0,0.0,0.0,0.0,2024,Dortmund
@@ -164,10 +164,10 @@
 37,30.03.2024,18:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,S,2.0,0.0,Bayern München,0.9,1.5,39.0,75.0,Emre Can,4-3-3,Harm Osmers,Spielbericht,,11.0,5.0,177.0,0.0,0.0,0.0,2024,Dortmund
 38,06.04.2024,18:30,Bundesliga,Spielwoche 28,Sa.,Heim,N,0.0,1.0,Stuttgart,2.5,1.6,51.0,81.365,Emre Can,4-3-3,Matthias Jöllenbeck,Spielbericht,,16.0,7.0,139.0,0.0,0.0,0.0,2024,Dortmund
 40,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,S,2.0,1.0,M'Gladbach,1.3,1.1,54.0,54.042,Gregor Kobel,4-2-3-1,Florian Badstübner,Spielbericht,,11.0,3.0,219.0,0.0,1.0,1.0,2024,Dortmund
-42,21.04.2024,17:30,Bundesliga,Spielwoche 30,So.,Heim,U,1.0,1.0,Leverkusen,0.5,1.1,48.0,81.365,Emre Can,4-5-1,Daniel Siebert,Spielbericht,,8.0,2.0,191.0,0.0,0.0,0.0,2024,Dortmund
-43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,,,,RB Leipzig,,,,,,,,Direkter Vergleich,,,,,,,,2024,Dortmund
-45,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,,,,Augsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Dortmund
-47,11.05.2024,18:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,,,,Mainz 05,,,,,,,,Direkter Vergleich,,,,,,,,2024,Dortmund
+42,21.04.2024,17:30,Bundesliga,Spielwoche 30,So.,Heim,U,1.0,1.0,Leverkusen,0.5,1.1,48.0,81.365,Emre Can,4-1-4-1,Daniel Siebert,Spielbericht,,8.0,2.0,191.0,0.0,0.0,0.0,2024,Dortmund
+43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,N,1.0,4.0,RB Leipzig,1.6,2.6,61.0,47.069,Gregor Kobel,4-5-1,Deniz Aytekin,Spielbericht,,12.0,5.0,154.0,0.0,0.0,0.0,2024,Dortmund
+45,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,S,5.0,1.0,Augsburg,4.0,2.5,61.0,81.365,Gregor Kobel,4-2-3-1,Robert Schröder,Spielbericht,,21.0,10.0,155.0,0.0,0.0,0.0,2024,Dortmund
+47,11.05.2024,18:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,N,0.0,3.0,Mainz 05,0.4,2.1,68.0,33.305,Niklas Süle,4-3-3,Tobias Stieler,Spielbericht,,9.0,2.0,217.0,0.0,0.0,0.0,2024,Dortmund
 48,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Darmstadt 98,,,,,,,,Direkter Vergleich,,,,,,,,2024,Dortmund
 1,20.08.2023,17:30,Bundesliga,Spielwoche 1,So.,Heim,S,1.0,0.0,Darmstadt 98,1.5,0.5,61.0,54.0,Sebastian Rode,3-4-3,Harm Osmers,Spielbericht,,9.0,3.0,140.0,0.0,0.0,0.0,2024,Eintracht Frankfurt
 3,27.08.2023,15:30,Bundesliga,Spielwoche 2,So.,Auswärts,U,1.0,1.0,Mainz 05,1.1,1.2,60.0,33.305,Kevin Trapp,3-4-3,Bastian Dankert,Spielbericht,,7.0,1.0,151.0,1.0,0.0,0.0,2024,Eintracht Frankfurt
@@ -199,78 +199,10 @@
 40,05.04.2024,20:30,Bundesliga,Spielwoche 28,Fr.,Heim,U,1.0,1.0,Werder Bremen,2.1,1.6,66.0,58.0,Kevin Trapp,4-4-2,Robert Hartmann,Spielbericht,,24.0,5.0,145.0,0.0,0.0,0.0,2024,Eintracht Frankfurt
 41,13.04.2024,18:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,N,0.0,3.0,Stuttgart,0.6,1.2,46.0,60.0,Kevin Trapp,4-2-2-2,Deniz Aytekin,Spielbericht,,10.0,3.0,191.0,1.0,0.0,0.0,2024,Eintracht Frankfurt
 42,19.04.2024,20:30,Bundesliga,Spielwoche 30,Fr.,Heim,S,3.0,1.0,Augsburg,1.8,0.5,63.0,57.6,Kevin Trapp,4-4-2,Martin Petersen,Spielbericht,,12.0,7.0,181.0,0.0,0.0,0.0,2024,Eintracht Frankfurt
-43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,,,,Bayern München,,,,,,,,Direkter Vergleich,,,,,,,,2024,Eintracht Frankfurt
-44,05.05.2024,17:30,Bundesliga,Spielwoche 32,So.,Heim,,,,Leverkusen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Eintracht Frankfurt
-45,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,,,,M'Gladbach,,,,,,,,Direkter Vergleich,,,,,,,,2024,Eintracht Frankfurt
+43,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,N,1.0,2.0,Bayern München,0.5,3.3,38.0,75.0,Kevin Trapp,3-5-2,Daniel Schlager,Spielbericht,,10.0,3.0,226.0,0.0,0.0,0.0,2024,Eintracht Frankfurt
+44,05.05.2024,17:30,Bundesliga,Spielwoche 32,So.,Heim,N,1.0,5.0,Leverkusen,1.9,2.7,55.0,58.0,Kevin Trapp,4-2-2-2,Christian Dingert,Spielbericht,,17.0,5.0,194.0,1.0,0.0,0.0,2024,Eintracht Frankfurt
+45,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,U,1.0,1.0,M'Gladbach,1.5,0.4,56.0,54.042,Kevin Trapp,3-5-2,Robert Schröder,Spielbericht,,17.0,2.0,131.0,0.0,0.0,0.0,2024,Eintracht Frankfurt
 46,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,RB Leipzig,,,,,,,,Direkter Vergleich,,,,,,,,2024,Eintracht Frankfurt
-1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,S,2.0,1.0,Hoffenheim,2.6,1.4,50.0,25.89,Christian Günter,4-2-2-2,Sven Jablonski,Spielbericht,,18.0,7.0,148.0,0.0,0.0,0.0,2024,Freiburg
-2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,S,1.0,0.0,Werder Bremen,2.4,1.0,49.0,34.7,Vincenzo Grifo,4-2-2-2,Benjamin Brand,Spielbericht,,23.0,7.0,156.0,0.0,0.0,0.0,2024,Freiburg
-3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,N,0.0,5.0,Stuttgart,1.0,1.7,52.0,54.3,Vincenzo Grifo,4-2-3-1,Felix Brych,Spielbericht,,13.0,7.0,137.0,0.0,0.0,0.0,2024,Freiburg
-4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Heim,N,2.0,4.0,Dortmund,1.0,2.3,50.0,34.7,Maximilian Eggestein,4-2-3-1,Tobias Stieler,Spielbericht,,15.0,4.0,158.0,1.0,0.0,0.0,2024,Freiburg
-6,24.09.2023,17:30,Bundesliga,Spielwoche 5,So.,Auswärts,U,0.0,0.0,Eint Frankfurt,0.5,0.6,43.0,55.8,Vincenzo Grifo,3-4-3,Felix Zwayer,Spielbericht,,7.0,1.0,171.0,0.0,0.0,0.0,2024,Freiburg
-7,01.10.2023,17:30,Bundesliga,Spielwoche 6,So.,Heim,S,2.0,0.0,Augsburg,1.0,0.8,53.0,33.134,Vincenzo Grifo,3-4-3,Harm Osmers,Spielbericht,,6.0,2.0,201.0,0.0,1.0,1.0,2024,Freiburg
-9,08.10.2023,17:30,Bundesliga,Spielwoche 7,So.,Auswärts,N,0.0,3.0,Bayern München,0.1,2.4,31.0,75.0,Vincenzo Grifo,4-4-2,Robert Schröder,Spielbericht,,2.0,0.0,164.0,0.0,0.0,0.0,2024,Freiburg
-10,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Heim,S,2.0,1.0,Bochum,2.3,1.5,58.0,33.9,Vincenzo Grifo,3-4-3,Tobias Reichel,Spielbericht,,16.0,4.0,157.0,1.0,1.0,1.0,2024,Freiburg
-12,29.10.2023,17:30,Bundesliga,Spielwoche 9,So.,Auswärts,N,1.0,2.0,Leverkusen,0.9,1.4,30.0,30.21,Vincenzo Grifo,4-1-4-1,Daniel Siebert,Spielbericht,,10.0,3.0,154.0,0.0,0.0,0.0,2024,Freiburg
-14,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Heim,U,3.0,3.0,M'Gladbach,3.3,2.2,59.0,34.7,Vincenzo Grifo,4-4-2,Felix Brych,Spielbericht,,15.0,7.0,144.0,0.0,1.0,1.0,2024,Freiburg
-16,12.11.2023,19:30,Bundesliga,Spielwoche 11,So.,Auswärts,N,1.0,3.0,RB Leipzig,0.5,1.9,39.0,41.117,Vincenzo Grifo,3-4-3,Patrick Ittrich,Spielbericht,,9.0,3.0,161.0,0.0,0.0,0.0,2024,Freiburg
-17,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Heim,U,1.0,1.0,Darmstadt 98,1.6,0.4,66.0,34.3,Vincenzo Grifo,3-4-3,Sascha Stegemann,Spielbericht,,15.0,3.0,186.0,1.0,0.0,0.0,2024,Freiburg
-19,03.12.2023,15:30,Bundesliga,Spielwoche 13,So.,Auswärts,S,1.0,0.0,Mainz 05,0.9,2.3,39.0,30.3,Maximilian Eggestein,4-4-2,Tobias Stieler,Spielbericht,,13.0,5.0,171.0,0.0,0.0,0.0,2024,Freiburg
-20,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,S,1.0,0.0,Wolfsburg,1.1,1.2,42.0,20.146,Vincenzo Grifo,4-4-1-1,Marco Fritz,Spielbericht,,4.0,1.0,130.0,0.0,0.0,0.0,2024,Freiburg
-22,17.12.2023,15:30,Bundesliga,Spielwoche 15,So.,Heim,S,2.0,0.0,Köln,3.0,1.2,52.0,34.7,Vincenzo Grifo,4-2-3-1,Harm Osmers,Spielbericht,,22.0,7.0,152.0,0.0,0.0,0.0,2024,Freiburg
-23,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,2.0,3.0,Heidenheim,1.8,1.9,47.0,15.0,Maximilian Eggestein,4-2-3-1,Benjamin Brand,Spielbericht,,10.0,3.0,162.0,0.0,1.0,1.0,2024,Freiburg
-24,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Heim,U,0.0,0.0,Union Berlin,1.8,0.5,57.0,33.8,Vincenzo Grifo,4-2-3-1,Christian Dingert,Spielbericht,,13.0,3.0,120.0,0.0,0.0,0.0,2024,Freiburg
-25,20.01.2024,15:30,Bundesliga,Spielwoche 18,Sa.,Heim,S,3.0,2.0,Hoffenheim,2.7,1.4,44.0,33.6,Vincenzo Grifo,4-1-3-2,Sascha Stegemann,Spielbericht,,18.0,9.0,156.0,1.0,0.0,0.0,2024,Freiburg
-26,27.01.2024,15:30,Bundesliga,Spielwoche 19,Sa.,Auswärts,N,1.0,3.0,Werder Bremen,1.2,2.5,58.0,41.5,Vincenzo Grifo,4-2-3-1,Robert Hartmann,Spielbericht,,6.0,3.0,160.0,1.0,1.0,1.0,2024,Freiburg
-27,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Heim,N,1.0,3.0,Stuttgart,0.7,1.7,35.0,34.7,Vincenzo Grifo,4-2-3-1,Daniel Siebert,Spielbericht,,6.0,3.0,114.0,0.0,0.0,0.0,2024,Freiburg
-28,09.02.2024,20:30,Bundesliga,Spielwoche 21,Fr.,Auswärts,N,0.0,3.0,Dortmund,0.3,1.9,34.0,81.365,Vincenzo Grifo,4-2-3-1,Harm Osmers,Spielbericht,,6.0,3.0,190.0,0.0,0.0,0.0,2024,Freiburg
-30,18.02.2024,15:30,Bundesliga,Spielwoche 22,So.,Heim,U,3.0,3.0,Eint Frankfurt,2.2,1.0,54.0,34.7,Vincenzo Grifo,3-4-3,Tobias Stieler,Spielbericht,,12.0,6.0,180.0,0.0,1.0,1.0,2024,Freiburg
-32,25.02.2024,19:30,Bundesliga,Spielwoche 23,So.,Auswärts,N,1.0,2.0,Augsburg,1.6,1.6,37.0,28.894,Christian Günter,4-2-2-2,Bastian Dankert,Spielbericht,,4.0,0.0,197.0,0.0,1.0,1.0,2024,Freiburg
-33,01.03.2024,20:30,Bundesliga,Spielwoche 24,Fr.,Heim,U,2.0,2.0,Bayern München,1.5,1.8,38.0,34.7,Christian Günter,4-4-2,Sven Jablonski,Spielbericht,,17.0,6.0,200.0,0.0,0.0,0.0,2024,Freiburg
-35,10.03.2024,15:30,Bundesliga,Spielwoche 25,So.,Auswärts,S,2.0,1.0,Bochum,1.4,1.2,40.0,25.594,Christian Günter,4-2-2-2,Marco Fritz,Spielbericht,,9.0,4.0,165.0,0.0,0.0,0.0,2024,Freiburg
-37,17.03.2024,15:30,Bundesliga,Spielwoche 26,So.,Heim,N,2.0,3.0,Leverkusen,0.9,2.3,33.0,34.7,Christian Günter,5-4-1,Harm Osmers,Spielbericht,,11.0,3.0,146.0,0.0,0.0,0.0,2024,Freiburg
-38,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,S,3.0,0.0,M'Gladbach,1.7,1.5,46.0,53.259,Christian Günter,3-4-1-2,Christian Dingert,Spielbericht,,14.0,8.0,181.0,1.0,0.0,0.0,2024,Freiburg
-39,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,N,1.0,4.0,RB Leipzig,1.6,2.3,47.0,33.2,Christian Günter,3-4-3,Daniel Siebert,Spielbericht,,12.0,2.0,166.0,0.0,0.0,1.0,2024,Freiburg
-40,14.04.2024,15:30,Bundesliga,Spielwoche 29,So.,Auswärts,S,1.0,0.0,Darmstadt 98,0.9,1.1,47.0,17.81,Christian Günter,3-4-3,Sascha Stegemann,Spielbericht,,9.0,3.0,160.0,0.0,0.0,0.0,2024,Freiburg
-41,21.04.2024,19:30,Bundesliga,Spielwoche 30,So.,Heim,U,1.0,1.0,Mainz 05,1.1,1.0,40.0,34.3,Christian Günter,3-4-3,Marco Fritz,Spielbericht,,6.0,3.0,142.0,0.0,0.0,0.0,2024,Freiburg
-42,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,,,,Wolfsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Freiburg
-43,04.05.2024,18:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,,,,Köln,,,,,,,,Direkter Vergleich,,,,,,,,2024,Freiburg
-44,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,,,,Heidenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Freiburg
-45,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Union Berlin,,,,,,,,Direkter Vergleich,,,,,,,,2024,Freiburg
-1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Heim,U,4.0,4.0,M'Gladbach,2.3,1.7,56.0,30.66,Ermedin Demirović,4-2-2-2,Daniel Schlager,Spielbericht,,19.0,6.0,191.0,1.0,1.0,1.0,2024,Augsburg
-2,27.08.2023,17:30,Bundesliga,Spielwoche 2,So.,Auswärts,N,1.0,3.0,Bayern München,0.7,2.8,39.0,75.0,Ermedin Demirović,4-2-2-2,Daniel Siebert,Spielbericht,,10.0,2.0,264.0,0.0,0.0,0.0,2024,Augsburg
-3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Heim,U,2.0,2.0,Bochum,1.9,1.6,38.0,27.424,Ermedin Demirović,4-2-2-2,Martin Petersen,Spielbericht,,11.0,4.0,136.0,0.0,0.0,0.0,2024,Augsburg
-4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Auswärts,N,0.0,3.0,RB Leipzig,1.7,1.1,46.0,44.746,Ermedin Demirović,3-4-3,Sascha Stegemann,Spielbericht,,16.0,5.0,165.0,0.0,0.0,0.0,2024,Augsburg
-5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,S,2.0,1.0,Mainz 05,0.8,0.6,41.0,27.31,Ermedin Demirović,3-4-3,Marco Fritz,Spielbericht,,5.0,3.0,208.0,0.0,0.0,0.0,2024,Augsburg
-6,01.10.2023,17:30,Bundesliga,Spielwoche 6,So.,Auswärts,N,0.0,2.0,Freiburg,0.8,1.0,47.0,33.134,Ermedin Demirović,3-4-3,Harm Osmers,Spielbericht,,13.0,3.0,175.0,0.0,0.0,0.0,2024,Augsburg
-7,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Heim,N,1.0,2.0,Darmstadt 98,0.9,1.8,48.0,29.2,Ermedin Demirović,3-4-3,Deniz Aytekin,Spielbericht,,18.0,3.0,192.0,1.0,0.0,0.0,2024,Augsburg
-8,22.10.2023,17:30,Bundesliga,Spielwoche 8,So.,Auswärts,S,5.0,2.0,Heidenheim,2.5,1.5,41.0,15.0,Ermedin Demirović,4-2-2-2,Tobias Stieler,Spielbericht,,8.0,5.0,168.0,0.0,1.0,1.0,2024,Augsburg
-9,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Heim,S,3.0,2.0,Wolfsburg,1.4,1.4,40.0,28.0,Ermedin Demirović,4-2-3-1,Daniel Schlager,Spielbericht,,8.0,5.0,114.0,0.0,0.0,0.0,2024,Augsburg
-10,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Auswärts,U,1.0,1.0,Köln,2.6,2.0,41.0,49.3,Ermedin Demirović,4-2-3-1,Christian Dingert,Spielbericht,,18.0,2.0,154.0,1.0,0.0,0.0,2024,Augsburg
-11,11.11.2023,15:30,Bundesliga,Spielwoche 11,Sa.,Heim,U,1.0,1.0,Hoffenheim,1.0,0.8,34.0,28.26,Ermedin Demirović,4-2-3-1,Felix Brych,Spielbericht,,11.0,6.0,117.0,0.0,0.0,0.0,2024,Augsburg
-12,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Auswärts,U,1.0,1.0,Union Berlin,1.7,2.1,39.0,22.012,Ermedin Demirović,4-2-3-1,Florian Badstübner,Spielbericht,,10.0,1.0,186.0,1.0,1.0,1.0,2024,Augsburg
-13,03.12.2023,19:30,Bundesliga,Spielwoche 13,So.,Heim,S,2.0,1.0,Eint Frankfurt,1.4,1.0,36.0,26.107,Ermedin Demirović,4-2-3-1,Harm Osmers,Spielbericht,,7.0,3.0,181.0,0.0,0.0,1.0,2024,Augsburg
-14,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,N,0.0,2.0,Werder Bremen,0.7,1.5,52.0,41.0,Ermedin Demirović,4-2-3-1,Sascha Stegemann,Spielbericht,,11.0,1.0,198.0,0.0,0.0,0.0,2024,Augsburg
-15,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Heim,U,1.0,1.0,Dortmund,1.8,2.6,37.0,30.66,Ermedin Demirović,4-2-3-1,Matthias Jöllenbeck,Spielbericht,,20.0,3.0,170.0,0.0,0.0,0.0,2024,Augsburg
-16,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,0.0,3.0,Stuttgart,0.2,2.6,34.0,53.6,Ermedin Demirović,4-4-2,Daniel Siebert,Spielbericht,,6.0,4.0,168.0,0.0,0.0,0.0,2024,Augsburg
-17,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Heim,N,0.0,1.0,Leverkusen,0.4,2.0,24.0,30.055,Ermedin Demirović,4-1-2-1-2◆,Sven Jablonski,Spielbericht,,3.0,0.0,201.0,0.0,0.0,0.0,2024,Augsburg
-18,21.01.2024,17:30,Bundesliga,Spielwoche 18,So.,Auswärts,S,2.0,1.0,M'Gladbach,1.3,1.7,45.0,44.867,Ermedin Demirović,4-3-1-2,Martin Petersen,Spielbericht,,15.0,7.0,168.0,0.0,0.0,0.0,2024,Augsburg
-19,27.01.2024,15:30,Bundesliga,Spielwoche 19,Sa.,Heim,N,2.0,3.0,Bayern München,2.6,2.3,42.0,30.66,Ermedin Demirović,4-3-1-2,Christian Dingert,Spielbericht,,13.0,5.0,184.0,1.0,1.0,2.0,2024,Augsburg
-20,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Auswärts,U,1.0,1.0,Bochum,1.6,0.9,51.0,24.5,Ermedin Demirović,4-1-2-1-2◆,Patrick Ittrich,Spielbericht,,13.0,2.0,167.0,0.0,1.0,1.0,2024,Augsburg
-21,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,U,2.0,2.0,RB Leipzig,0.7,1.3,42.0,28.51,Ermedin Demirović,4-3-1-2,Benjamin Brand,Spielbericht,,11.0,4.0,163.0,0.0,0.0,0.0,2024,Augsburg
-22,17.02.2024,15:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,N,0.0,1.0,Mainz 05,1.0,2.1,54.0,24.8,Jeffrey Gouweleeuw,4-1-2-1-2◆,Tobias Reichel,Spielbericht,,10.0,3.0,155.0,0.0,0.0,0.0,2024,Augsburg
-23,25.02.2024,19:30,Bundesliga,Spielwoche 23,So.,Heim,S,2.0,1.0,Freiburg,1.6,1.6,63.0,28.894,Ermedin Demirović,4-1-2-1-2◆,Bastian Dankert,Spielbericht,,19.0,8.0,156.0,1.0,0.0,0.0,2024,Augsburg
-24,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Auswärts,S,6.0,0.0,Darmstadt 98,2.9,0.8,54.0,17.81,Ermedin Demirović,4-3-1-2,Felix Zwayer,Spielbericht,,22.0,7.0,168.0,0.0,0.0,0.0,2024,Augsburg
-25,09.03.2024,15:30,Bundesliga,Spielwoche 25,Sa.,Heim,S,1.0,0.0,Heidenheim,0.5,0.4,58.0,30.66,Ermedin Demirović,4-1-2-1-2◆,Frank Willenborg,Spielbericht,,7.0,3.0,167.0,1.0,0.0,0.0,2024,Augsburg
-26,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,S,3.0,1.0,Wolfsburg,0.7,1.3,50.0,21.735,Ermedin Demirović,4-1-2-1-2◆,Timo Gerach,Spielbericht,,15.0,5.0,279.0,1.0,0.0,0.0,2024,Augsburg
-27,31.03.2024,15:30,Bundesliga,Spielwoche 27,So.,Heim,U,1.0,1.0,Köln,2.2,1.3,57.0,37.66,Elvis Rexhbeçaj,4-1-2-1-2◆,Sören Storks,Spielbericht,,25.0,5.0,162.0,1.0,0.0,0.0,2024,Augsburg
-28,07.04.2024,15:30,Bundesliga,Spielwoche 28,So.,Auswärts,N,1.0,3.0,Hoffenheim,1.2,1.8,46.0,28.881,Ermedin Demirović,5-3-2,Florian Exner,Spielbericht,,15.0,6.0,189.0,0.0,0.0,0.0,2024,Augsburg
-29,12.04.2024,20:30,Bundesliga,Spielwoche 29,Fr.,Heim,S,2.0,0.0,Union Berlin,1.6,1.6,47.0,29.731,Ermedin Demirović,4-1-2-1-2◆,Tobias Stieler,Spielbericht,,10.0,4.0,171.0,0.0,0.0,0.0,2024,Augsburg
-30,19.04.2024,20:30,Bundesliga,Spielwoche 30,Fr.,Auswärts,N,1.0,3.0,Eint Frankfurt,0.5,1.8,37.0,57.6,Ermedin Demirović,4-1-2-1-2◆,Martin Petersen,Spielbericht,,6.0,1.0,190.0,0.0,0.0,0.0,2024,Augsburg
-31,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,,,,Werder Bremen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Augsburg
-32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,,,,Dortmund,,,,,,,,Direkter Vergleich,,,,,,,,2024,Augsburg
-33,10.05.2024,20:30,Bundesliga,Spielwoche 33,Fr.,Heim,,,,Stuttgart,,,,,,,,Direkter Vergleich,,,,,,,,2024,Augsburg
-34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Leverkusen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Augsburg
 1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Heim,N,1.0,2.0,Freiburg,1.4,2.6,50.0,25.89,Oliver Baumann,3-5-2,Sven Jablonski,Spielbericht,,22.0,4.0,176.0,0.0,0.0,0.0,2024,Hoffenheim
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,S,3.0,2.0,Heidenheim,3.0,2.4,62.0,15.0,Oliver Baumann,3-4-3,Robert Hartmann,Spielbericht,,15.0,5.0,188.0,2.0,1.0,1.0,2024,Hoffenheim
 3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Heim,S,3.0,1.0,Wolfsburg,2.0,1.2,40.0,17.5,Oliver Baumann,3-5-2,Felix Zwayer,Spielbericht,,10.0,5.0,169.0,1.0,0.0,0.0,2024,Hoffenheim
@@ -301,10 +233,44 @@
 29,07.04.2024,15:30,Bundesliga,Spielwoche 28,So.,Heim,S,3.0,1.0,Augsburg,1.8,1.2,54.0,28.881,Oliver Baumann,3-4-1-2,Florian Exner,Spielbericht,,18.0,6.0,174.0,0.0,0.0,0.0,2024,Hoffenheim
 30,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,N,1.0,4.0,Mainz 05,0.5,2.1,53.0,31.0,Oliver Baumann,3-5-2,Felix Zwayer,Spielbericht,,5.0,1.0,205.0,0.0,0.0,0.0,2024,Hoffenheim
 31,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,S,4.0,3.0,M'Gladbach,2.3,1.0,59.0,26.078,Oliver Baumann,3-5-2,Sören Storks,Spielbericht,,28.0,9.0,192.0,2.0,0.0,0.0,2024,Hoffenheim
-32,26.04.2024,20:30,Bundesliga,Spielwoche 31,Fr.,Auswärts,,,,Bochum,,,,,,,,Direkter Vergleich,,,,,,,,2024,Hoffenheim
-33,03.05.2024,20:30,Bundesliga,Spielwoche 32,Fr.,Heim,,,,RB Leipzig,,,,,,,,Direkter Vergleich,,,,,,,,2024,Hoffenheim
-34,12.05.2024,15:30,Bundesliga,Spielwoche 33,So.,Auswärts,,,,Darmstadt 98,,,,,,,,Direkter Vergleich,,,,,,,,2024,Hoffenheim
+32,26.04.2024,20:30,Bundesliga,Spielwoche 31,Fr.,Auswärts,N,2.0,3.0,Bochum,1.0,3.2,54.0,24.3,Oliver Baumann,3-5-2,Tobias Stieler,Spielbericht,,10.0,4.0,156.0,0.0,0.0,0.0,2024,Hoffenheim
+33,03.05.2024,20:30,Bundesliga,Spielwoche 32,Fr.,Heim,U,1.0,1.0,RB Leipzig,1.6,0.8,55.0,25.066,Oliver Baumann,3-5-2,Harm Osmers,Spielbericht,,20.0,8.0,200.0,0.0,0.0,0.0,2024,Hoffenheim
+34,12.05.2024,15:30,Bundesliga,Spielwoche 33,So.,Auswärts,S,6.0,0.0,Darmstadt 98,3.4,0.6,59.0,17.81,Oliver Baumann,3-4-1-2,Florian Badstübner,Spielbericht,,12.0,7.0,167.0,0.0,0.0,0.0,2024,Hoffenheim
 35,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Bayern München,,,,,,,,Direkter Vergleich,,,,,,,,2024,Hoffenheim
+1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,S,2.0,1.0,Hoffenheim,2.6,1.4,50.0,25.89,Christian Günter,4-2-2-2,Sven Jablonski,Spielbericht,,18.0,7.0,148.0,0.0,0.0,0.0,2024,Freiburg
+2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,S,1.0,0.0,Werder Bremen,2.4,1.0,49.0,34.7,Vincenzo Grifo,4-2-2-2,Benjamin Brand,Spielbericht,,23.0,7.0,156.0,0.0,0.0,0.0,2024,Freiburg
+3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,N,0.0,5.0,Stuttgart,1.0,1.7,52.0,54.3,Vincenzo Grifo,4-2-3-1,Felix Brych,Spielbericht,,13.0,7.0,137.0,0.0,0.0,0.0,2024,Freiburg
+4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Heim,N,2.0,4.0,Dortmund,1.0,2.3,50.0,34.7,Maximilian Eggestein,4-2-3-1,Tobias Stieler,Spielbericht,,15.0,4.0,158.0,1.0,0.0,0.0,2024,Freiburg
+6,24.09.2023,17:30,Bundesliga,Spielwoche 5,So.,Auswärts,U,0.0,0.0,Eint Frankfurt,0.5,0.6,43.0,55.8,Vincenzo Grifo,3-4-3,Felix Zwayer,Spielbericht,,7.0,1.0,171.0,0.0,0.0,0.0,2024,Freiburg
+7,01.10.2023,17:30,Bundesliga,Spielwoche 6,So.,Heim,S,2.0,0.0,Augsburg,1.0,0.8,53.0,33.134,Vincenzo Grifo,3-4-3,Harm Osmers,Spielbericht,,6.0,2.0,201.0,0.0,1.0,1.0,2024,Freiburg
+9,08.10.2023,17:30,Bundesliga,Spielwoche 7,So.,Auswärts,N,0.0,3.0,Bayern München,0.1,2.4,31.0,75.0,Vincenzo Grifo,4-4-2,Robert Schröder,Spielbericht,,2.0,0.0,164.0,0.0,0.0,0.0,2024,Freiburg
+10,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Heim,S,2.0,1.0,Bochum,2.3,1.5,58.0,33.9,Vincenzo Grifo,3-4-3,Tobias Reichel,Spielbericht,,16.0,4.0,157.0,1.0,1.0,1.0,2024,Freiburg
+12,29.10.2023,17:30,Bundesliga,Spielwoche 9,So.,Auswärts,N,1.0,2.0,Leverkusen,0.9,1.4,30.0,30.21,Vincenzo Grifo,4-1-4-1,Daniel Siebert,Spielbericht,,10.0,3.0,154.0,0.0,0.0,0.0,2024,Freiburg
+14,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Heim,U,3.0,3.0,M'Gladbach,3.3,2.2,59.0,34.7,Vincenzo Grifo,4-4-2,Felix Brych,Spielbericht,,15.0,7.0,144.0,0.0,1.0,1.0,2024,Freiburg
+16,12.11.2023,19:30,Bundesliga,Spielwoche 11,So.,Auswärts,N,1.0,3.0,RB Leipzig,0.5,1.9,39.0,41.117,Vincenzo Grifo,3-4-3,Patrick Ittrich,Spielbericht,,9.0,3.0,161.0,0.0,0.0,0.0,2024,Freiburg
+17,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Heim,U,1.0,1.0,Darmstadt 98,1.6,0.4,66.0,34.3,Vincenzo Grifo,3-4-3,Sascha Stegemann,Spielbericht,,15.0,3.0,186.0,1.0,0.0,0.0,2024,Freiburg
+19,03.12.2023,15:30,Bundesliga,Spielwoche 13,So.,Auswärts,S,1.0,0.0,Mainz 05,0.9,2.3,39.0,30.3,Maximilian Eggestein,4-4-2,Tobias Stieler,Spielbericht,,13.0,5.0,171.0,0.0,0.0,0.0,2024,Freiburg
+20,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,S,1.0,0.0,Wolfsburg,1.1,1.2,42.0,20.146,Vincenzo Grifo,4-4-1-1,Marco Fritz,Spielbericht,,4.0,1.0,130.0,0.0,0.0,0.0,2024,Freiburg
+22,17.12.2023,15:30,Bundesliga,Spielwoche 15,So.,Heim,S,2.0,0.0,Köln,3.0,1.2,52.0,34.7,Vincenzo Grifo,4-2-3-1,Harm Osmers,Spielbericht,,22.0,7.0,152.0,0.0,0.0,0.0,2024,Freiburg
+23,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,2.0,3.0,Heidenheim,1.8,1.9,47.0,15.0,Maximilian Eggestein,4-2-3-1,Benjamin Brand,Spielbericht,,10.0,3.0,162.0,0.0,1.0,1.0,2024,Freiburg
+24,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Heim,U,0.0,0.0,Union Berlin,1.8,0.5,57.0,33.8,Vincenzo Grifo,4-2-3-1,Christian Dingert,Spielbericht,,13.0,3.0,120.0,0.0,0.0,0.0,2024,Freiburg
+25,20.01.2024,15:30,Bundesliga,Spielwoche 18,Sa.,Heim,S,3.0,2.0,Hoffenheim,2.7,1.4,44.0,33.6,Vincenzo Grifo,4-1-3-2,Sascha Stegemann,Spielbericht,,18.0,9.0,156.0,1.0,0.0,0.0,2024,Freiburg
+26,27.01.2024,15:30,Bundesliga,Spielwoche 19,Sa.,Auswärts,N,1.0,3.0,Werder Bremen,1.2,2.5,58.0,41.5,Vincenzo Grifo,4-2-3-1,Robert Hartmann,Spielbericht,,6.0,3.0,160.0,1.0,1.0,1.0,2024,Freiburg
+27,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Heim,N,1.0,3.0,Stuttgart,0.7,1.7,35.0,34.7,Vincenzo Grifo,4-2-3-1,Daniel Siebert,Spielbericht,,6.0,3.0,114.0,0.0,0.0,0.0,2024,Freiburg
+28,09.02.2024,20:30,Bundesliga,Spielwoche 21,Fr.,Auswärts,N,0.0,3.0,Dortmund,0.3,1.9,34.0,81.365,Vincenzo Grifo,4-2-3-1,Harm Osmers,Spielbericht,,6.0,3.0,190.0,0.0,0.0,0.0,2024,Freiburg
+30,18.02.2024,15:30,Bundesliga,Spielwoche 22,So.,Heim,U,3.0,3.0,Eint Frankfurt,2.2,1.0,54.0,34.7,Vincenzo Grifo,3-4-3,Tobias Stieler,Spielbericht,,12.0,6.0,180.0,0.0,1.0,1.0,2024,Freiburg
+32,25.02.2024,19:30,Bundesliga,Spielwoche 23,So.,Auswärts,N,1.0,2.0,Augsburg,1.6,1.6,37.0,28.894,Christian Günter,4-2-2-2,Bastian Dankert,Spielbericht,,4.0,0.0,197.0,0.0,1.0,1.0,2024,Freiburg
+33,01.03.2024,20:30,Bundesliga,Spielwoche 24,Fr.,Heim,U,2.0,2.0,Bayern München,1.5,1.8,38.0,34.7,Christian Günter,4-4-2,Sven Jablonski,Spielbericht,,17.0,6.0,200.0,0.0,0.0,0.0,2024,Freiburg
+35,10.03.2024,15:30,Bundesliga,Spielwoche 25,So.,Auswärts,S,2.0,1.0,Bochum,1.4,1.2,40.0,25.594,Christian Günter,4-2-2-2,Marco Fritz,Spielbericht,,9.0,4.0,165.0,0.0,0.0,0.0,2024,Freiburg
+37,17.03.2024,15:30,Bundesliga,Spielwoche 26,So.,Heim,N,2.0,3.0,Leverkusen,0.9,2.3,33.0,34.7,Christian Günter,5-4-1,Harm Osmers,Spielbericht,,11.0,3.0,146.0,0.0,0.0,0.0,2024,Freiburg
+38,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,S,3.0,0.0,M'Gladbach,1.7,1.5,46.0,53.259,Christian Günter,3-4-1-2,Christian Dingert,Spielbericht,,14.0,8.0,181.0,1.0,0.0,0.0,2024,Freiburg
+39,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,N,1.0,4.0,RB Leipzig,1.6,2.3,47.0,33.2,Christian Günter,3-4-3,Daniel Siebert,Spielbericht,,12.0,2.0,166.0,0.0,0.0,1.0,2024,Freiburg
+40,14.04.2024,15:30,Bundesliga,Spielwoche 29,So.,Auswärts,S,1.0,0.0,Darmstadt 98,0.9,1.1,47.0,17.81,Christian Günter,3-4-3,Sascha Stegemann,Spielbericht,,9.0,3.0,160.0,0.0,0.0,0.0,2024,Freiburg
+41,21.04.2024,19:30,Bundesliga,Spielwoche 30,So.,Heim,U,1.0,1.0,Mainz 05,1.1,1.0,40.0,34.3,Christian Günter,3-4-3,Marco Fritz,Spielbericht,,6.0,3.0,142.0,0.0,0.0,0.0,2024,Freiburg
+42,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,N,1.0,2.0,Wolfsburg,2.2,0.5,51.0,32.8,Christian Günter,3-4-3,Frank Willenborg,Spielbericht,,14.0,3.0,165.0,0.0,0.0,1.0,2024,Freiburg
+43,04.05.2024,18:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,U,0.0,0.0,Köln,0.8,0.9,44.0,50.0,Christian Günter,3-5-2,Sören Storks,Spielbericht,,4.0,0.0,121.0,0.0,0.0,0.0,2024,Freiburg
+44,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,U,1.0,1.0,Heidenheim,1.5,0.7,56.0,34.7,Christian Günter,3-4-3,Daniel Siebert,Spielbericht,,20.0,4.0,172.0,1.0,0.0,0.0,2024,Freiburg
+45,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Union Berlin,,,,,,,,Direkter Vergleich,,,,,,,,2024,Freiburg
 1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,N,0.0,2.0,Wolfsburg,1.2,2.2,52.0,22.62,Patrick Mainka,4-1-3-2,Florian Badstübner,Spielbericht,,14.0,1.0,163.0,0.0,0.0,0.0,2024,Heidenheim
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,N,2.0,3.0,Hoffenheim,2.4,3.0,38.0,15.0,Patrick Mainka,4-4-2,Robert Hartmann,Spielbericht,,19.0,7.0,182.0,1.0,0.0,1.0,2024,Heidenheim
 3,01.09.2023,20:30,Bundesliga,Spielwoche 3,Fr.,Auswärts,U,2.0,2.0,Dortmund,2.1,3.4,38.0,81.365,Patrick Mainka,4-2-3-1,Tobias Reichel,Spielbericht,,13.0,5.0,196.0,1.0,1.0,1.0,2024,Heidenheim
@@ -334,11 +300,45 @@
 28,31.03.2024,17:30,Bundesliga,Spielwoche 27,So.,Auswärts,U,3.0,3.0,Stuttgart,1.3,3.0,28.0,60.0,Patrick Mainka,4-2-3-1,Felix Zwayer,Spielbericht,,6.0,3.0,95.0,0.0,0.0,0.0,2024,Heidenheim
 29,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,S,3.0,2.0,Bayern München,1.4,1.9,33.0,15.0,Patrick Mainka,4-2-3-1,Robert Schröder,Spielbericht,,9.0,4.0,159.0,1.0,0.0,0.0,2024,Heidenheim
 30,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,U,1.0,1.0,Bochum,1.1,1.2,39.0,24.414,Patrick Mainka,4-2-3-1,Patrick Ittrich,Spielbericht,,11.0,3.0,182.0,0.0,0.0,0.0,2024,Heidenheim
-31,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,N,1.0,2.0,RB Leipzig,1.0,1.8,39.0,15.0,Patrick Mainka,4-1-4-1,Tobias Welz,Spielbericht,,10.0,4.0,149.0,1.0,0.0,0.0,2024,Heidenheim
-32,28.04.2024,19:30,Bundesliga,Spielwoche 31,So.,Auswärts,,,,Darmstadt 98,,,,,,,,Direkter Vergleich,,,,,,,,2024,Heidenheim
-33,05.05.2024,19:30,Bundesliga,Spielwoche 32,So.,Heim,,,,Mainz 05,,,,,,,,Direkter Vergleich,,,,,,,,2024,Heidenheim
-34,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,,,,Freiburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Heidenheim
+31,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,N,1.0,2.0,RB Leipzig,1.0,1.8,39.0,15.0,Patrick Mainka,4-1-2-1-2◆,Tobias Welz,Spielbericht,,10.0,4.0,149.0,1.0,0.0,0.0,2024,Heidenheim
+32,28.04.2024,19:30,Bundesliga,Spielwoche 31,So.,Auswärts,S,1.0,0.0,Darmstadt 98,1.6,0.7,55.0,17.416,Patrick Mainka,4-1-3-2,Bastian Dankert,Spielbericht,,17.0,5.0,162.0,0.0,0.0,0.0,2024,Heidenheim
+33,05.05.2024,19:30,Bundesliga,Spielwoche 32,So.,Heim,U,1.0,1.0,Mainz 05,0.9,1.4,46.0,15.0,Patrick Mainka,4-1-3-2,Sven Jablonski,Spielbericht,,15.0,5.0,194.0,0.0,0.0,0.0,2024,Heidenheim
+34,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,U,1.0,1.0,Freiburg,0.7,1.5,44.0,34.7,Patrick Mainka,4-2-3-1,Daniel Siebert,Spielbericht,,8.0,3.0,183.0,0.0,0.0,0.0,2024,Heidenheim
 35,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Köln,,,,,,,,Direkter Vergleich,,,,,,,,2024,Heidenheim
+1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Heim,U,4.0,4.0,M'Gladbach,2.3,1.7,56.0,30.66,Ermedin Demirović,4-2-2-2,Daniel Schlager,Spielbericht,,19.0,6.0,191.0,1.0,1.0,1.0,2024,Augsburg
+2,27.08.2023,17:30,Bundesliga,Spielwoche 2,So.,Auswärts,N,1.0,3.0,Bayern München,0.7,2.8,39.0,75.0,Ermedin Demirović,4-2-2-2,Daniel Siebert,Spielbericht,,10.0,2.0,264.0,0.0,0.0,0.0,2024,Augsburg
+3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Heim,U,2.0,2.0,Bochum,1.9,1.6,38.0,27.424,Ermedin Demirović,4-2-2-2,Martin Petersen,Spielbericht,,11.0,4.0,136.0,0.0,0.0,0.0,2024,Augsburg
+4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Auswärts,N,0.0,3.0,RB Leipzig,1.7,1.1,46.0,44.746,Ermedin Demirović,3-4-3,Sascha Stegemann,Spielbericht,,16.0,5.0,165.0,0.0,0.0,0.0,2024,Augsburg
+5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,S,2.0,1.0,Mainz 05,0.8,0.6,41.0,27.31,Ermedin Demirović,3-4-3,Marco Fritz,Spielbericht,,5.0,3.0,208.0,0.0,0.0,0.0,2024,Augsburg
+6,01.10.2023,17:30,Bundesliga,Spielwoche 6,So.,Auswärts,N,0.0,2.0,Freiburg,0.8,1.0,47.0,33.134,Ermedin Demirović,3-4-3,Harm Osmers,Spielbericht,,13.0,3.0,175.0,0.0,0.0,0.0,2024,Augsburg
+7,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Heim,N,1.0,2.0,Darmstadt 98,0.9,1.8,48.0,29.2,Ermedin Demirović,3-4-3,Deniz Aytekin,Spielbericht,,18.0,3.0,192.0,1.0,0.0,0.0,2024,Augsburg
+8,22.10.2023,17:30,Bundesliga,Spielwoche 8,So.,Auswärts,S,5.0,2.0,Heidenheim,2.5,1.5,41.0,15.0,Ermedin Demirović,4-2-2-2,Tobias Stieler,Spielbericht,,8.0,5.0,168.0,0.0,1.0,1.0,2024,Augsburg
+9,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Heim,S,3.0,2.0,Wolfsburg,1.4,1.4,40.0,28.0,Ermedin Demirović,4-2-3-1,Daniel Schlager,Spielbericht,,8.0,5.0,114.0,0.0,0.0,0.0,2024,Augsburg
+10,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Auswärts,U,1.0,1.0,Köln,2.6,2.0,41.0,49.3,Ermedin Demirović,4-2-3-1,Christian Dingert,Spielbericht,,18.0,2.0,154.0,1.0,0.0,0.0,2024,Augsburg
+11,11.11.2023,15:30,Bundesliga,Spielwoche 11,Sa.,Heim,U,1.0,1.0,Hoffenheim,1.0,0.8,34.0,28.26,Ermedin Demirović,4-2-3-1,Felix Brych,Spielbericht,,11.0,6.0,117.0,0.0,0.0,0.0,2024,Augsburg
+12,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Auswärts,U,1.0,1.0,Union Berlin,1.7,2.1,39.0,22.012,Ermedin Demirović,4-2-3-1,Florian Badstübner,Spielbericht,,10.0,1.0,186.0,1.0,1.0,1.0,2024,Augsburg
+13,03.12.2023,19:30,Bundesliga,Spielwoche 13,So.,Heim,S,2.0,1.0,Eint Frankfurt,1.4,1.0,36.0,26.107,Ermedin Demirović,4-2-3-1,Harm Osmers,Spielbericht,,7.0,3.0,181.0,0.0,0.0,1.0,2024,Augsburg
+14,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,N,0.0,2.0,Werder Bremen,0.7,1.5,52.0,41.0,Ermedin Demirović,4-2-3-1,Sascha Stegemann,Spielbericht,,11.0,1.0,198.0,0.0,0.0,0.0,2024,Augsburg
+15,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Heim,U,1.0,1.0,Dortmund,1.8,2.6,37.0,30.66,Ermedin Demirović,4-2-3-1,Matthias Jöllenbeck,Spielbericht,,20.0,3.0,170.0,0.0,0.0,0.0,2024,Augsburg
+16,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,0.0,3.0,Stuttgart,0.2,2.6,34.0,53.6,Ermedin Demirović,4-4-2,Daniel Siebert,Spielbericht,,6.0,4.0,168.0,0.0,0.0,0.0,2024,Augsburg
+17,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Heim,N,0.0,1.0,Leverkusen,0.4,2.0,24.0,30.055,Ermedin Demirović,4-1-2-1-2◆,Sven Jablonski,Spielbericht,,3.0,0.0,201.0,0.0,0.0,0.0,2024,Augsburg
+18,21.01.2024,17:30,Bundesliga,Spielwoche 18,So.,Auswärts,S,2.0,1.0,M'Gladbach,1.3,1.7,45.0,44.867,Ermedin Demirović,4-3-1-2,Martin Petersen,Spielbericht,,15.0,7.0,168.0,0.0,0.0,0.0,2024,Augsburg
+19,27.01.2024,15:30,Bundesliga,Spielwoche 19,Sa.,Heim,N,2.0,3.0,Bayern München,2.6,2.3,42.0,30.66,Ermedin Demirović,4-3-1-2,Christian Dingert,Spielbericht,,13.0,5.0,184.0,1.0,1.0,2.0,2024,Augsburg
+20,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Auswärts,U,1.0,1.0,Bochum,1.6,0.9,51.0,24.5,Ermedin Demirović,4-1-2-1-2◆,Patrick Ittrich,Spielbericht,,13.0,2.0,167.0,0.0,1.0,1.0,2024,Augsburg
+21,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,U,2.0,2.0,RB Leipzig,0.7,1.3,42.0,28.51,Ermedin Demirović,4-3-1-2,Benjamin Brand,Spielbericht,,11.0,4.0,163.0,0.0,0.0,0.0,2024,Augsburg
+22,17.02.2024,15:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,N,0.0,1.0,Mainz 05,1.0,2.1,54.0,24.8,Jeffrey Gouweleeuw,4-1-2-1-2◆,Tobias Reichel,Spielbericht,,10.0,3.0,155.0,0.0,0.0,0.0,2024,Augsburg
+23,25.02.2024,19:30,Bundesliga,Spielwoche 23,So.,Heim,S,2.0,1.0,Freiburg,1.6,1.6,63.0,28.894,Ermedin Demirović,4-1-2-1-2◆,Bastian Dankert,Spielbericht,,19.0,8.0,156.0,1.0,0.0,0.0,2024,Augsburg
+24,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Auswärts,S,6.0,0.0,Darmstadt 98,2.9,0.8,54.0,17.81,Ermedin Demirović,4-3-1-2,Felix Zwayer,Spielbericht,,22.0,7.0,168.0,0.0,0.0,0.0,2024,Augsburg
+25,09.03.2024,15:30,Bundesliga,Spielwoche 25,Sa.,Heim,S,1.0,0.0,Heidenheim,0.5,0.4,58.0,30.66,Ermedin Demirović,4-1-2-1-2◆,Frank Willenborg,Spielbericht,,7.0,3.0,167.0,1.0,0.0,0.0,2024,Augsburg
+26,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,S,3.0,1.0,Wolfsburg,0.7,1.3,50.0,21.735,Ermedin Demirović,4-1-2-1-2◆,Timo Gerach,Spielbericht,,15.0,5.0,279.0,1.0,0.0,0.0,2024,Augsburg
+27,31.03.2024,15:30,Bundesliga,Spielwoche 27,So.,Heim,U,1.0,1.0,Köln,2.2,1.3,57.0,37.66,Elvis Rexhbeçaj,4-1-2-1-2◆,Sören Storks,Spielbericht,,25.0,5.0,162.0,1.0,0.0,0.0,2024,Augsburg
+28,07.04.2024,15:30,Bundesliga,Spielwoche 28,So.,Auswärts,N,1.0,3.0,Hoffenheim,1.2,1.8,46.0,28.881,Ermedin Demirović,5-3-2,Florian Exner,Spielbericht,,15.0,6.0,189.0,0.0,0.0,0.0,2024,Augsburg
+29,12.04.2024,20:30,Bundesliga,Spielwoche 29,Fr.,Heim,S,2.0,0.0,Union Berlin,1.6,1.6,47.0,29.731,Ermedin Demirović,4-1-2-1-2◆,Tobias Stieler,Spielbericht,,10.0,4.0,171.0,0.0,0.0,0.0,2024,Augsburg
+30,19.04.2024,20:30,Bundesliga,Spielwoche 30,Fr.,Auswärts,N,1.0,3.0,Eint Frankfurt,0.5,1.8,37.0,57.6,Ermedin Demirović,4-1-2-1-2◆,Martin Petersen,Spielbericht,,6.0,1.0,190.0,0.0,0.0,0.0,2024,Augsburg
+31,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Heim,N,0.0,3.0,Werder Bremen,0.6,2.0,54.0,30.66,Ermedin Demirović,4-1-2-1-2◆,Tobias Welz,Spielbericht,,13.0,1.0,198.0,0.0,0.0,0.0,2024,Augsburg
+32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,N,1.0,5.0,Dortmund,2.5,4.0,39.0,81.365,Ermedin Demirović,3-4-1-2,Robert Schröder,Spielbericht,,22.0,3.0,143.0,0.0,0.0,0.0,2024,Augsburg
+33,10.05.2024,20:30,Bundesliga,Spielwoche 33,Fr.,Heim,N,0.0,1.0,Stuttgart,0.6,1.9,24.0,30.66,Ermedin Demirović,4-3-1-2,Patrick Ittrich,Spielbericht,,9.0,1.0,187.0,2.0,0.0,0.0,2024,Augsburg
+34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Leverkusen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Augsburg
 1,18.08.2023,20:30,Bundesliga,Spielwoche 1,Fr.,Heim,N,0.0,4.0,Bayern München,0.6,2.8,28.0,42.1,Marco Friedl,3-1-4-2,Felix Zwayer,Spielbericht,,6.0,1.0,207.0,1.0,0.0,0.0,2024,Werder Bremen
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,N,0.0,1.0,Freiburg,1.0,2.4,51.0,34.7,Marco Friedl,3-1-4-2,Benjamin Brand,Spielbericht,,15.0,1.0,198.0,1.0,0.0,0.0,2024,Werder Bremen
 3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Heim,S,4.0,0.0,Mainz 05,2.7,0.5,45.0,41.0,Marco Friedl,3-5-2,Robert Schröder,Spielbericht,,12.0,5.0,147.0,0.0,1.0,1.0,2024,Werder Bremen
@@ -369,44 +369,10 @@
 28,05.04.2024,20:30,Bundesliga,Spielwoche 28,Fr.,Auswärts,U,1.0,1.0,Eint Frankfurt,1.6,2.1,34.0,58.0,Marco Friedl,3-5-2,Robert Hartmann,Spielbericht,,11.0,7.0,181.0,1.0,0.0,0.0,2024,Werder Bremen
 29,14.04.2024,17:30,Bundesliga,Spielwoche 29,So.,Auswärts,N,0.0,5.0,Leverkusen,0.7,3.2,44.0,30.21,Leonardo Bittencourt,3-5-2,Harm Osmers,Spielbericht,,7.0,3.0,176.0,0.0,0.0,0.0,2024,Werder Bremen
 30,21.04.2024,15:30,Bundesliga,Spielwoche 30,So.,Heim,S,2.0,1.0,Stuttgart,1.5,2.2,31.0,42.1,Marco Friedl,3-4-3,Robert Schröder,Spielbericht,,8.0,1.0,246.0,0.0,1.0,1.0,2024,Werder Bremen
-31,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,,,,Augsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Werder Bremen
-32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,,,,M'Gladbach,,,,,,,,Direkter Vergleich,,,,,,,,2024,Werder Bremen
-33,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,,,,RB Leipzig,,,,,,,,Direkter Vergleich,,,,,,,,2024,Werder Bremen
+31,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,S,3.0,0.0,Augsburg,2.0,0.6,46.0,30.66,Marco Friedl,3-4-3,Tobias Welz,Spielbericht,,14.0,5.0,196.0,0.0,1.0,1.0,2024,Werder Bremen
+32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,U,2.0,2.0,M'Gladbach,1.4,1.9,56.0,42.1,Marco Friedl,3-4-3,Timo Gerach,Spielbericht,,18.0,6.0,146.0,1.0,0.0,0.0,2024,Werder Bremen
+33,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,U,1.0,1.0,RB Leipzig,1.1,1.4,55.0,47.069,Marco Friedl,3-4-3,Sascha Stegemann,Spielbericht,,11.0,2.0,197.0,0.0,0.0,0.0,2024,Werder Bremen
 34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Bochum,,,,,,,,Direkter Vergleich,,,,,,,,2024,Werder Bremen
-1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,U,4.0,4.0,Augsburg,1.7,2.3,44.0,30.66,Jonas Omlin,4-2-3-1,Daniel Schlager,Spielbericht,,9.0,4.0,170.0,0.0,1.0,1.0,2024,Monchengladbach
-2,26.08.2023,18:30,Bundesliga,Spielwoche 2,Sa.,Heim,N,0.0,3.0,Leverkusen,0.9,2.7,40.0,54.042,Jonas Omlin,5-4-1,Christian Dingert,Spielbericht,,12.0,2.0,194.0,0.0,0.0,0.0,2024,Monchengladbach
-3,02.09.2023,18:30,Bundesliga,Spielwoche 3,Sa.,Heim,N,1.0,2.0,Bayern München,0.3,2.4,35.0,54.042,Julian Weigl,4-1-4-1,Deniz Aytekin,Spielbericht,,7.0,3.0,245.0,1.0,0.0,0.0,2024,Monchengladbach
-4,17.09.2023,17:30,Bundesliga,Spielwoche 4,So.,Auswärts,U,3.0,3.0,Darmstadt 98,3.9,1.2,63.0,17.81,Julian Weigl,4-2-3-1,Timo Gerach,Spielbericht,,21.0,9.0,160.0,0.0,0.0,1.0,2024,Monchengladbach
-5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,N,0.0,1.0,RB Leipzig,0.8,0.7,45.0,50.122,Julian Weigl,3-5-2,Robert Schröder,Spielbericht,,14.0,1.0,160.0,1.0,0.0,0.0,2024,Monchengladbach
-6,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Auswärts,S,3.0,1.0,Bochum,2.9,1.7,42.0,26.0,Julian Weigl,3-5-2,Felix Brych,Spielbericht,,27.0,8.0,153.0,0.0,0.0,0.0,2024,Monchengladbach
-7,06.10.2023,20:30,Bundesliga,Spielwoche 7,Fr.,Heim,U,2.0,2.0,Mainz 05,2.3,0.8,60.0,51.529,Julian Weigl,3-5-2,Sven Jablonski,Spielbericht,,21.0,9.0,146.0,1.0,0.0,0.0,2024,Monchengladbach
-8,22.10.2023,15:30,Bundesliga,Spielwoche 8,So.,Auswärts,N,1.0,3.0,Köln,0.3,2.7,40.0,50.0,Julian Weigl,3-5-2,Deniz Aytekin,Spielbericht,,5.0,2.0,214.0,1.0,0.0,0.0,2024,Monchengladbach
-9,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Heim,S,2.0,1.0,Heidenheim,1.0,0.4,53.0,51.541,Julian Weigl,4-2-3-1,Robert Hartmann,Spielbericht,,13.0,5.0,140.0,0.0,0.0,0.0,2024,Monchengladbach
-11,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Auswärts,U,3.0,3.0,Freiburg,2.2,3.3,41.0,34.7,Julian Weigl,4-4-1-1,Felix Brych,Spielbericht,,9.0,4.0,240.0,0.0,1.0,1.0,2024,Monchengladbach
-12,10.11.2023,20:30,Bundesliga,Spielwoche 11,Fr.,Heim,S,4.0,0.0,Wolfsburg,1.5,0.5,47.0,45.308,Julian Weigl,3-5-2,Felix Zwayer,Spielbericht,,15.0,8.0,164.0,0.0,0.0,0.0,2024,Monchengladbach
-13,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Auswärts,N,2.0,4.0,Dortmund,1.0,3.2,49.0,81.365,Julian Weigl,3-5-2,Sven Jablonski,Spielbericht,,10.0,3.0,161.0,0.0,0.0,0.0,2024,Monchengladbach
-14,02.12.2023,15:30,Bundesliga,Spielwoche 13,Sa.,Heim,S,2.0,1.0,Hoffenheim,1.6,1.4,49.0,49.341,Florian Neuhaus,3-5-1-1,Tobias Reichel,Spielbericht,,8.0,2.0,219.0,0.0,1.0,1.0,2024,Monchengladbach
-16,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,N,1.0,3.0,Union Berlin,1.1,2.1,62.0,22.012,Julian Weigl,3-1-4-2,Martin Petersen,Spielbericht,,11.0,3.0,207.0,0.0,0.0,0.0,2024,Monchengladbach
-17,15.12.2023,20:30,Bundesliga,Spielwoche 15,Fr.,Heim,U,2.0,2.0,Werder Bremen,1.4,1.6,50.0,50.66,Julian Weigl,3-5-2,Felix Zwayer,Spielbericht,,14.0,4.0,189.0,0.0,0.0,0.0,2024,Monchengladbach
-18,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,1.0,2.0,Eint Frankfurt,0.3,1.4,37.0,58.0,Julian Weigl,3-4-3,Florian Badstübner,Spielbericht,,7.0,2.0,224.0,0.0,0.0,0.0,2024,Monchengladbach
-19,14.01.2024,17:30,Bundesliga,Spielwoche 17,So.,Heim,S,3.0,1.0,Stuttgart,1.9,0.9,29.0,53.429,Julian Weigl,4-3-3,Harm Osmers,Spielbericht,,8.0,4.0,125.0,0.0,0.0,0.0,2024,Monchengladbach
-20,21.01.2024,17:30,Bundesliga,Spielwoche 18,So.,Heim,N,1.0,2.0,Augsburg,1.7,1.3,55.0,44.867,Alassane Pléa,4-4-2,Martin Petersen,Spielbericht,,18.0,4.0,173.0,0.0,0.0,0.0,2024,Monchengladbach
-21,27.01.2024,18:30,Bundesliga,Spielwoche 19,Sa.,Auswärts,U,0.0,0.0,Leverkusen,0.3,2.9,25.0,30.21,Julian Weigl,5-3-2,Deniz Aytekin,Spielbericht,,4.0,3.0,194.0,0.0,0.0,0.0,2024,Monchengladbach
-22,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Auswärts,N,1.0,3.0,Bayern München,1.0,2.1,45.0,75.0,Julian Weigl,4-1-4-1,Tobias Stieler,Spielbericht,,11.0,2.0,224.0,0.0,0.0,0.0,2024,Monchengladbach
-23,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,U,0.0,0.0,Darmstadt 98,1.5,0.7,58.0,46.121,Julian Weigl,3-5-2,Sascha Stegemann,Spielbericht,,24.0,8.0,191.0,0.0,0.0,0.0,2024,Monchengladbach
-24,17.02.2024,18:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,N,0.0,2.0,RB Leipzig,0.7,1.7,51.0,44.822,Julian Weigl,3-5-2,Sören Storks,Spielbericht,,15.0,0.0,173.0,0.0,0.0,0.0,2024,Monchengladbach
-25,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Heim,S,5.0,2.0,Bochum,3.5,1.6,48.0,53.196,Julian Weigl,4-3-3,Frank Willenborg,Spielbericht,,21.0,5.0,169.0,0.0,1.0,1.0,2024,Monchengladbach
-26,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Auswärts,U,1.0,1.0,Mainz 05,1.0,1.0,57.0,33.305,Julian Weigl,4-3-3,Robert Schröder,Spielbericht,,14.0,5.0,161.0,0.0,0.0,0.0,2024,Monchengladbach
-27,09.03.2024,15:30,Bundesliga,Spielwoche 25,Sa.,Heim,U,3.0,3.0,Köln,1.8,0.6,58.0,54.042,Julian Weigl,4-2-3-1,Felix Zwayer,Spielbericht,,17.0,5.0,139.0,0.0,0.0,0.0,2024,Monchengladbach
-29,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,U,1.0,1.0,Heidenheim,0.5,1.1,47.0,15.0,Julian Weigl,4-3-3,Martin Petersen,Spielbericht,,7.0,2.0,205.0,0.0,0.0,0.0,2024,Monchengladbach
-30,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Heim,N,0.0,3.0,Freiburg,1.5,1.7,54.0,53.259,Jonas Omlin,4-2-3-1,Christian Dingert,Spielbericht,,19.0,3.0,134.0,0.0,0.0,0.0,2024,Monchengladbach
-31,07.04.2024,17:30,Bundesliga,Spielwoche 28,So.,Auswärts,S,3.0,1.0,Wolfsburg,1.1,1.2,39.0,,Julian Weigl,3-4-3,Bastian Dankert,Spielbericht,,10.0,6.0,147.0,0.0,0.0,0.0,2024,Monchengladbach
-32,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,N,1.0,2.0,Dortmund,1.1,1.3,46.0,54.042,Jonas Omlin,3-4-3,Florian Badstübner,Spielbericht,,18.0,4.0,171.0,0.0,0.0,0.0,2024,Monchengladbach
-33,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,N,3.0,4.0,Hoffenheim,1.0,2.3,41.0,26.078,Julian Weigl,3-4-1-2,Sören Storks,Spielbericht,,13.0,7.0,128.0,0.0,0.0,0.0,2024,Monchengladbach
-34,28.04.2024,15:30,Bundesliga,Spielwoche 31,So.,Heim,,,,Union Berlin,,,,,,,,Direkter Vergleich,,,,,,,,2024,Monchengladbach
-35,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,,,,Werder Bremen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Monchengladbach
-36,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,,,,Eint Frankfurt,,,,,,,,Direkter Vergleich,,,,,,,,2024,Monchengladbach
-37,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Stuttgart,,,,,,,,Direkter Vergleich,,,,,,,,2024,Monchengladbach
 1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Heim,S,2.0,0.0,Heidenheim,2.2,1.2,48.0,22.62,Koen Casteels,4-3-3,Florian Badstübner,Spielbericht,,18.0,8.0,155.0,0.0,0.0,0.0,2024,Wolfsburg
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,S,2.0,1.0,Köln,1.7,0.9,50.0,49.5,Koen Casteels,4-3-3,Matthias Jöllenbeck,Spielbericht,,9.0,6.0,137.0,0.0,0.0,0.0,2024,Wolfsburg
 3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,N,1.0,3.0,Hoffenheim,1.2,2.0,60.0,17.5,Maximilian Arnold,4-3-3,Felix Zwayer,Spielbericht,,13.0,7.0,167.0,1.0,0.0,0.0,2024,Wolfsburg
@@ -434,47 +400,81 @@
 27,10.03.2024,19:30,Bundesliga,Spielwoche 25,So.,Auswärts,N,0.0,2.0,Leverkusen,0.2,2.1,24.0,29.314,Maximilian Arnold,3-4-3,Daniel Siebert,Spielbericht,,2.0,1.0,192.0,0.0,0.0,0.0,2024,Wolfsburg
 28,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Heim,N,1.0,3.0,Augsburg,1.3,0.7,50.0,21.735,Maximilian Arnold,4-4-2,Timo Gerach,Spielbericht,,15.0,4.0,146.0,0.0,0.0,0.0,2024,Wolfsburg
 29,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,S,2.0,0.0,Werder Bremen,2.3,0.5,51.0,41.5,Maximilian Arnold,3-4-3,Sascha Stegemann,Spielbericht,,16.0,5.0,131.0,0.0,0.0,0.0,2024,Wolfsburg
-30,07.04.2024,17:30,Bundesliga,Spielwoche 28,So.,Heim,N,1.0,3.0,M'Gladbach,1.2,1.1,61.0,,Maximilian Arnold,4-4-2,Bastian Dankert,Spielbericht,,13.0,4.0,154.0,1.0,0.0,0.0,2024,Wolfsburg
+30,07.04.2024,17:30,Bundesliga,Spielwoche 28,So.,Heim,N,1.0,3.0,M'Gladbach,1.2,1.1,61.0,26.105,Maximilian Arnold,4-4-2,Bastian Dankert,Spielbericht,,13.0,4.0,154.0,1.0,0.0,0.0,2024,Wolfsburg
 31,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,N,0.0,3.0,RB Leipzig,0.4,1.3,50.0,45.858,Maximilian Arnold,3-4-3,Christian Dingert,Spielbericht,,10.0,3.0,235.0,0.0,0.0,0.0,2024,Wolfsburg
-32,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,S,1.0,0.0,Bochum,0.8,1.3,46.0,26.327,Maximilian Arnold,3-4-3,Tobias Reichel,Spielbericht,,9.0,5.0,170.0,0.0,0.0,0.0,2024,Wolfsburg
-33,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,,,,Freiburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Wolfsburg
-34,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,,,,Darmstadt 98,,,,,,,,Direkter Vergleich,,,,,,,,2024,Wolfsburg
-35,12.05.2024,17:30,Bundesliga,Spielwoche 33,So.,Auswärts,,,,Bayern München,,,,,,,,Direkter Vergleich,,,,,,,,2024,Wolfsburg
+32,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,S,1.0,0.0,Bochum,0.8,1.3,46.0,26.327,Maximilian Arnold,4-4-2,Tobias Reichel,Spielbericht,,9.0,5.0,170.0,0.0,0.0,0.0,2024,Wolfsburg
+33,27.04.2024,15:30,Bundesliga,Spielwoche 31,Sa.,Auswärts,S,2.0,1.0,Freiburg,0.5,2.2,49.0,32.8,Maximilian Arnold,3-4-3,Frank Willenborg,Spielbericht,,12.0,4.0,231.0,1.0,0.0,0.0,2024,Wolfsburg
+34,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Heim,S,3.0,0.0,Darmstadt 98,2.2,0.4,53.0,23.108,Maximilian Arnold,4-2-3-1,Robert Hartmann,Spielbericht,,21.0,7.0,185.0,2.0,0.0,0.0,2024,Wolfsburg
+35,12.05.2024,17:30,Bundesliga,Spielwoche 33,So.,Auswärts,N,0.0,2.0,Bayern München,0.1,0.3,41.0,75.0,Maximilian Arnold,3-5-1-1,Bastian Dankert,Spielbericht,,5.0,2.0,323.0,0.0,0.0,0.0,2024,Wolfsburg
 36,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Mainz 05,,,,,,,,Direkter Vergleich,,,,,,,,2024,Wolfsburg
-1,20.08.2023,15:30,Bundesliga,Spielwoche 1,So.,Heim,S,4.0,1.0,Mainz 05,1.9,2.3,47.0,22.012,Christopher Trimmel,5-3-2,Tobias Stieler,Spielbericht,,11.0,6.0,148.0,2.0,0.0,0.0,2024,Union Berlin
-2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,S,4.0,1.0,Darmstadt 98,1.7,2.3,27.0,17.81,Danilho Doekhi,3-5-2,Patrick Ittrich,Spielbericht,,13.0,6.0,153.0,0.0,0.0,0.0,2024,Union Berlin
-3,03.09.2023,17:30,Bundesliga,Spielwoche 3,So.,Heim,N,0.0,3.0,RB Leipzig,0.3,1.2,36.0,22.012,Danilho Doekhi,3-4-3,Daniel Schlager,Spielbericht,,3.0,1.0,217.0,1.0,0.0,0.0,2024,Union Berlin
-4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Auswärts,N,1.0,2.0,Wolfsburg,1.1,0.4,56.0,21.917,Christopher Trimmel,3-5-2,Felix Brych,Spielbericht,,19.0,6.0,148.0,0.0,0.0,0.0,2024,Union Berlin
-6,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,N,0.0,2.0,Hoffenheim,1.6,2.0,57.0,20.0,Sheraldo Becker,3-5-2,Deniz Aytekin,Spielbericht,,22.0,5.0,152.0,0.0,0.0,0.0,2024,Union Berlin
-7,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Auswärts,N,0.0,1.0,Heidenheim,2.2,0.8,50.0,15.0,Christopher Trimmel,3-4-3,Sascha Stegemann,Spielbericht,,20.0,8.0,169.0,2.0,0.0,0.0,2024,Union Berlin
-9,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Auswärts,N,2.0,4.0,Dortmund,1.4,1.6,34.0,81.365,Christopher Trimmel,5-3-2,Patrick Ittrich,Spielbericht,,12.0,4.0,187.0,0.0,1.0,1.0,2024,Union Berlin
-10,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Heim,N,0.0,3.0,Stuttgart,0.6,1.4,43.0,22.012,Christopher Trimmel,3-5-2,Bastian Dankert,Spielbericht,,9.0,1.0,182.0,0.0,0.0,0.0,2024,Union Berlin
-12,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Auswärts,N,0.0,2.0,Werder Bremen,0.6,0.8,44.0,42.1,Christopher Trimmel,3-5-2,Tobias Stieler,Spielbericht,,7.0,2.0,184.0,0.0,0.0,0.0,2024,Union Berlin
-14,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Heim,N,0.0,3.0,Eint Frankfurt,0.7,1.6,50.0,22.012,Christopher Trimmel,5-4-1,Sven Jablonski,Spielbericht,,11.0,3.0,185.0,0.0,0.0,0.0,2024,Union Berlin
-16,12.11.2023,15:30,Bundesliga,Spielwoche 11,So.,Auswärts,N,0.0,4.0,Leverkusen,0.0,2.4,31.0,29.387,Sheraldo Becker,3-4-3,Timo Gerach,Spielbericht,,2.0,2.0,204.0,0.0,0.0,0.0,2024,Union Berlin
-17,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Heim,U,1.0,1.0,Augsburg,2.1,1.7,61.0,22.012,Christopher Trimmel,3-4-3,Florian Badstübner,Spielbericht,,14.0,5.0,173.0,0.0,0.0,1.0,2024,Union Berlin
-19,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Heim,S,3.0,1.0,M'Gladbach,2.1,1.1,38.0,22.012,Rani Khedira,4-2-3-1,Martin Petersen,Spielbericht,,15.0,5.0,168.0,1.0,1.0,1.0,2024,Union Berlin
-21,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Auswärts,N,0.0,3.0,Bochum,0.7,2.8,51.0,25.3,Rani Khedira,4-2-3-1,Sven Jablonski,Spielbericht,,9.0,1.0,130.0,0.0,0.0,0.0,2024,Union Berlin
-22,20.12.2023,18:30,Bundesliga,Spielwoche 16,Mi.,Heim,S,2.0,0.0,Köln,1.5,0.8,40.0,22.012,Rani Khedira,4-3-3,Deniz Aytekin,Spielbericht,,11.0,6.0,132.0,0.0,0.0,0.0,2024,Union Berlin
-23,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Auswärts,U,0.0,0.0,Freiburg,0.5,1.8,43.0,33.8,Jérôme Roussillon,5-3-2,Christian Dingert,Spielbericht,,9.0,4.0,184.0,0.0,0.0,0.0,2024,Union Berlin
-24,24.01.2024,20:30,Bundesliga,Spielwoche 13,Mi.,Auswärts,N,0.0,1.0,Bayern München,0.2,2.1,28.0,75.0,Christopher Trimmel,5-3-2,Frank Willenborg,Spielbericht,,4.0,1.0,193.0,0.0,0.0,0.0,2024,Union Berlin
-25,28.01.2024,15:30,Bundesliga,Spielwoche 19,So.,Heim,S,1.0,0.0,Darmstadt 98,2.5,1.1,50.0,21.786,Christopher Trimmel,3-5-2,Harm Osmers,Spielbericht,,21.0,6.0,149.0,0.0,0.0,0.0,2024,Union Berlin
-26,04.02.2024,17:30,Bundesliga,Spielwoche 20,So.,Auswärts,N,0.0,2.0,RB Leipzig,0.5,1.1,34.0,44.032,Christopher Trimmel,3-5-2,Marco Fritz,Spielbericht,,10.0,2.0,193.0,0.0,0.0,0.0,2024,Union Berlin
-27,07.02.2024,18:30,Bundesliga,Spielwoche 18,Mi.,Auswärts,U,1.0,1.0,Mainz 05,1.0,1.3,54.0,26.2,Rani Khedira,3-5-2,Martin Petersen,Spielbericht,,16.0,4.0,167.0,0.0,0.0,0.0,2024,Union Berlin
-28,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,S,1.0,0.0,Wolfsburg,0.5,1.3,42.0,22.0,Rani Khedira,3-5-2,Matthias Jöllenbeck,Spielbericht,,8.0,1.0,157.0,0.0,0.0,0.0,2024,Union Berlin
-29,17.02.2024,15:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,S,1.0,0.0,Hoffenheim,1.4,1.0,34.0,19.05,Christopher Trimmel,3-5-2,Robert Hartmann,Spielbericht,,10.0,3.0,170.0,1.0,0.0,0.0,2024,Union Berlin
-30,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Heim,U,2.0,2.0,Heidenheim,1.1,1.1,58.0,21.341,Rani Khedira,3-5-2,Deniz Aytekin,Spielbericht,,12.0,3.0,167.0,0.0,0.0,0.0,2024,Union Berlin
-31,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Heim,N,0.0,2.0,Dortmund,1.2,1.6,39.0,22.012,Rani Khedira,3-5-2,Christian Dingert,Spielbericht,,14.0,3.0,167.0,0.0,0.0,0.0,2024,Union Berlin
-32,08.03.2024,20:30,Bundesliga,Spielwoche 25,Fr.,Auswärts,N,0.0,2.0,Stuttgart,0.9,1.0,30.0,53.8,Rani Khedira,5-4-1,Robert Schröder,Spielbericht,,9.0,4.0,163.0,0.0,0.0,0.0,2024,Union Berlin
-33,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Heim,S,2.0,1.0,Werder Bremen,1.1,1.1,50.0,22.012,Christopher Trimmel,3-4-1-2,Daniel Schlager,Spielbericht,,11.0,6.0,155.0,0.0,0.0,0.0,2024,Union Berlin
-34,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,U,0.0,0.0,Eint Frankfurt,1.5,1.0,35.0,57.1,Christopher Trimmel,3-4-3,Marco Fritz,Spielbericht,,11.0,2.0,152.0,0.0,0.0,0.0,2024,Union Berlin
-35,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,N,0.0,1.0,Leverkusen,0.3,2.8,35.0,22.012,Christopher Trimmel,3-5-2,Benjamin Brand,Spielbericht,,9.0,0.0,166.0,0.0,0.0,0.0,2024,Union Berlin
-36,12.04.2024,20:30,Bundesliga,Spielwoche 29,Fr.,Auswärts,N,0.0,2.0,Augsburg,1.6,1.6,53.0,29.731,Christopher Trimmel,3-5-2,Tobias Stieler,Spielbericht,,17.0,3.0,130.0,0.0,0.0,0.0,2024,Union Berlin
-37,20.04.2024,18:30,Bundesliga,Spielwoche 30,Sa.,Heim,N,1.0,5.0,Bayern München,1.4,1.4,37.0,22.012,Christopher Trimmel,3-5-2,Sven Jablonski,Spielbericht,,15.0,4.0,145.0,0.0,0.0,0.0,2024,Union Berlin
-38,28.04.2024,15:30,Bundesliga,Spielwoche 31,So.,Auswärts,,,,M'Gladbach,,,,,,,,Direkter Vergleich,,,,,,,,2024,Union Berlin
-39,05.05.2024,15:30,Bundesliga,Spielwoche 32,So.,Heim,,,,Bochum,,,,,,,,Direkter Vergleich,,,,,,,,2024,Union Berlin
-40,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,,,,Köln,,,,,,,,Direkter Vergleich,,,,,,,,2024,Union Berlin
-41,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Freiburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Union Berlin
+1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,U,4.0,4.0,Augsburg,1.7,2.3,44.0,30.66,Jonas Omlin,4-2-3-1,Daniel Schlager,Spielbericht,,9.0,4.0,170.0,0.0,1.0,1.0,2024,Monchengladbach
+2,26.08.2023,18:30,Bundesliga,Spielwoche 2,Sa.,Heim,N,0.0,3.0,Leverkusen,0.9,2.7,40.0,54.042,Jonas Omlin,5-4-1,Christian Dingert,Spielbericht,,12.0,2.0,194.0,0.0,0.0,0.0,2024,Monchengladbach
+3,02.09.2023,18:30,Bundesliga,Spielwoche 3,Sa.,Heim,N,1.0,2.0,Bayern München,0.3,2.4,35.0,54.042,Julian Weigl,4-1-4-1,Deniz Aytekin,Spielbericht,,7.0,3.0,245.0,1.0,0.0,0.0,2024,Monchengladbach
+4,17.09.2023,17:30,Bundesliga,Spielwoche 4,So.,Auswärts,U,3.0,3.0,Darmstadt 98,3.9,1.2,63.0,17.81,Julian Weigl,4-2-3-1,Timo Gerach,Spielbericht,,21.0,9.0,160.0,0.0,0.0,1.0,2024,Monchengladbach
+5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,N,0.0,1.0,RB Leipzig,0.8,0.7,45.0,50.122,Julian Weigl,3-5-2,Robert Schröder,Spielbericht,,14.0,1.0,160.0,1.0,0.0,0.0,2024,Monchengladbach
+6,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Auswärts,S,3.0,1.0,Bochum,2.9,1.7,42.0,26.0,Julian Weigl,3-5-2,Felix Brych,Spielbericht,,27.0,8.0,153.0,0.0,0.0,0.0,2024,Monchengladbach
+7,06.10.2023,20:30,Bundesliga,Spielwoche 7,Fr.,Heim,U,2.0,2.0,Mainz 05,2.3,0.8,60.0,51.529,Julian Weigl,3-5-2,Sven Jablonski,Spielbericht,,21.0,9.0,146.0,1.0,0.0,0.0,2024,Monchengladbach
+8,22.10.2023,15:30,Bundesliga,Spielwoche 8,So.,Auswärts,N,1.0,3.0,Köln,0.3,2.7,40.0,50.0,Julian Weigl,3-5-2,Deniz Aytekin,Spielbericht,,5.0,2.0,214.0,1.0,0.0,0.0,2024,Monchengladbach
+9,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Heim,S,2.0,1.0,Heidenheim,1.0,0.4,53.0,51.541,Julian Weigl,4-2-3-1,Robert Hartmann,Spielbericht,,13.0,5.0,140.0,0.0,0.0,0.0,2024,Monchengladbach
+11,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Auswärts,U,3.0,3.0,Freiburg,2.2,3.3,41.0,34.7,Julian Weigl,4-4-1-1,Felix Brych,Spielbericht,,9.0,4.0,240.0,0.0,1.0,1.0,2024,Monchengladbach
+12,10.11.2023,20:30,Bundesliga,Spielwoche 11,Fr.,Heim,S,4.0,0.0,Wolfsburg,1.5,0.5,47.0,45.308,Julian Weigl,3-5-2,Felix Zwayer,Spielbericht,,15.0,8.0,164.0,0.0,0.0,0.0,2024,Monchengladbach
+13,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Auswärts,N,2.0,4.0,Dortmund,1.0,3.2,49.0,81.365,Julian Weigl,3-5-2,Sven Jablonski,Spielbericht,,10.0,3.0,161.0,0.0,0.0,0.0,2024,Monchengladbach
+14,02.12.2023,15:30,Bundesliga,Spielwoche 13,Sa.,Heim,S,2.0,1.0,Hoffenheim,1.6,1.4,49.0,49.341,Florian Neuhaus,3-5-1-1,Tobias Reichel,Spielbericht,,8.0,2.0,219.0,0.0,1.0,1.0,2024,Monchengladbach
+16,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Auswärts,N,1.0,3.0,Union Berlin,1.1,2.1,62.0,22.012,Julian Weigl,3-1-4-2,Martin Petersen,Spielbericht,,11.0,3.0,207.0,0.0,0.0,0.0,2024,Monchengladbach
+17,15.12.2023,20:30,Bundesliga,Spielwoche 15,Fr.,Heim,U,2.0,2.0,Werder Bremen,1.4,1.6,50.0,50.66,Julian Weigl,3-5-2,Felix Zwayer,Spielbericht,,14.0,4.0,189.0,0.0,0.0,0.0,2024,Monchengladbach
+18,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,1.0,2.0,Eint Frankfurt,0.3,1.4,37.0,58.0,Julian Weigl,3-4-3,Florian Badstübner,Spielbericht,,7.0,2.0,224.0,0.0,0.0,0.0,2024,Monchengladbach
+19,14.01.2024,17:30,Bundesliga,Spielwoche 17,So.,Heim,S,3.0,1.0,Stuttgart,1.9,0.9,29.0,53.429,Julian Weigl,4-3-3,Harm Osmers,Spielbericht,,8.0,4.0,125.0,0.0,0.0,0.0,2024,Monchengladbach
+20,21.01.2024,17:30,Bundesliga,Spielwoche 18,So.,Heim,N,1.0,2.0,Augsburg,1.7,1.3,55.0,44.867,Alassane Pléa,4-4-2,Martin Petersen,Spielbericht,,18.0,4.0,173.0,0.0,0.0,0.0,2024,Monchengladbach
+21,27.01.2024,18:30,Bundesliga,Spielwoche 19,Sa.,Auswärts,U,0.0,0.0,Leverkusen,0.3,2.9,25.0,30.21,Julian Weigl,5-3-2,Deniz Aytekin,Spielbericht,,4.0,3.0,194.0,0.0,0.0,0.0,2024,Monchengladbach
+22,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Auswärts,N,1.0,3.0,Bayern München,1.0,2.1,45.0,75.0,Julian Weigl,4-1-4-1,Tobias Stieler,Spielbericht,,11.0,2.0,224.0,0.0,0.0,0.0,2024,Monchengladbach
+23,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,U,0.0,0.0,Darmstadt 98,1.5,0.7,58.0,46.121,Julian Weigl,3-5-2,Sascha Stegemann,Spielbericht,,24.0,8.0,191.0,0.0,0.0,0.0,2024,Monchengladbach
+24,17.02.2024,18:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,N,0.0,2.0,RB Leipzig,0.7,1.7,51.0,44.822,Julian Weigl,3-5-2,Sören Storks,Spielbericht,,15.0,0.0,173.0,0.0,0.0,0.0,2024,Monchengladbach
+25,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Heim,S,5.0,2.0,Bochum,3.5,1.6,48.0,53.196,Julian Weigl,4-3-3,Frank Willenborg,Spielbericht,,21.0,5.0,169.0,0.0,1.0,1.0,2024,Monchengladbach
+26,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Auswärts,U,1.0,1.0,Mainz 05,1.0,1.0,57.0,33.305,Julian Weigl,4-3-3,Robert Schröder,Spielbericht,,14.0,5.0,161.0,0.0,0.0,0.0,2024,Monchengladbach
+27,09.03.2024,15:30,Bundesliga,Spielwoche 25,Sa.,Heim,U,3.0,3.0,Köln,1.8,0.6,58.0,54.042,Julian Weigl,4-2-3-1,Felix Zwayer,Spielbericht,,17.0,5.0,139.0,0.0,0.0,0.0,2024,Monchengladbach
+29,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,U,1.0,1.0,Heidenheim,0.5,1.1,47.0,15.0,Julian Weigl,4-3-3,Martin Petersen,Spielbericht,,7.0,2.0,205.0,0.0,0.0,0.0,2024,Monchengladbach
+30,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Heim,N,0.0,3.0,Freiburg,1.5,1.7,54.0,53.259,Jonas Omlin,4-2-3-1,Christian Dingert,Spielbericht,,19.0,3.0,134.0,0.0,0.0,0.0,2024,Monchengladbach
+31,07.04.2024,17:30,Bundesliga,Spielwoche 28,So.,Auswärts,S,3.0,1.0,Wolfsburg,1.1,1.2,39.0,26.105,Julian Weigl,3-4-3,Bastian Dankert,Spielbericht,,10.0,6.0,147.0,0.0,0.0,0.0,2024,Monchengladbach
+32,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,N,1.0,2.0,Dortmund,1.1,1.3,46.0,54.042,Jonas Omlin,3-4-3,Florian Badstübner,Spielbericht,,18.0,4.0,171.0,0.0,0.0,0.0,2024,Monchengladbach
+33,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,N,3.0,4.0,Hoffenheim,1.0,2.3,41.0,26.078,Julian Weigl,5-4-1,Sören Storks,Spielbericht,,13.0,7.0,128.0,0.0,0.0,0.0,2024,Monchengladbach
+34,28.04.2024,15:30,Bundesliga,Spielwoche 31,So.,Heim,U,0.0,0.0,Union Berlin,0.9,1.0,52.0,53.723,Alassane Pléa,3-4-3,Sascha Stegemann,Spielbericht,,13.0,4.0,154.0,0.0,0.0,0.0,2024,Monchengladbach
+35,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,U,2.0,2.0,Werder Bremen,1.9,1.4,44.0,42.1,Julian Weigl,3-1-4-2,Timo Gerach,Spielbericht,,16.0,5.0,193.0,0.0,1.0,1.0,2024,Monchengladbach
+36,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,U,1.0,1.0,Eint Frankfurt,0.4,1.5,44.0,54.042,Julian Weigl,3-5-2,Robert Schröder,Spielbericht,,6.0,3.0,206.0,0.0,0.0,0.0,2024,Monchengladbach
+37,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Stuttgart,,,,,,,,Direkter Vergleich,,,,,,,,2024,Monchengladbach
+1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,N,0,5,Stuttgart,0.8,3.0,40.0,53.0,Anthony Losilla,3-4-3,Daniel Siebert,Spielbericht,,4.0,1.0,118.0,0.0,0.0,0.0,2024,Bochum
+2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,U,1,1,Dortmund,1.0,1.3,36.0,26.0,Anthony Losilla,3-5-2,Robert Schröder,Spielbericht,,20.0,7.0,178.0,0.0,0.0,0.0,2024,Bochum
+3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,U,2,2,Augsburg,1.6,1.9,62.0,27.424,Anthony Losilla,3-5-2,Martin Petersen,Spielbericht,,21.0,8.0,206.0,2.0,0.0,0.0,2024,Bochum
+4,16.09.2023,18:30,Bundesliga,Spielwoche 4,Sa.,Heim,U,1,1,Eint Frankfurt,2.0,0.6,49.0,26.0,Anthony Losilla,3-5-2,Benjamin Brand,Spielbericht,,21.0,6.0,217.0,1.0,1.0,1.0,2024,Bochum
+5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Auswärts,N,0,7,Bayern München,0.1,4.8,38.0,75.0,Anthony Losilla,3-5-2,Robert Hartmann,Spielbericht,,4.0,1.0,254.0,0.0,0.0,0.0,2024,Bochum
+6,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Heim,N,1,3,M'Gladbach,1.7,2.9,58.0,26.0,Anthony Losilla,3-5-2,Felix Brych,Spielbericht,,24.0,4.0,185.0,0.0,0.0,0.0,2024,Bochum
+7,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Auswärts,U,0,0,RB Leipzig,0.4,2.5,25.0,44.269,Anthony Losilla,3-5-2,Timo Gerach,Spielbericht,,9.0,2.0,194.0,1.0,0.0,0.0,2024,Bochum
+8,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Auswärts,N,1,2,Freiburg,1.5,2.3,42.0,33.9,Anthony Losilla,3-4-3,Tobias Reichel,Spielbericht,,13.0,3.0,191.0,0.0,0.0,0.0,2024,Bochum
+9,27.10.2023,20:30,Bundesliga,Spielwoche 9,Fr.,Heim,U,2,2,Mainz 05,1.4,0.4,50.0,26.0,Anthony Losilla,3-4-3,Patrick Ittrich,Spielbericht,,11.0,3.0,193.0,0.0,1.0,1.0,2024,Bochum
+10,03.11.2023,20:30,Bundesliga,Spielwoche 10,Fr.,Auswärts,S,2,1,Darmstadt 98,1.2,0.7,42.0,17.81,Anthony Losilla,4-3-3,Marco Fritz,Spielbericht,,9.0,4.0,197.0,1.0,0.0,0.0,2024,Bochum
+11,11.11.2023,18:30,Bundesliga,Spielwoche 11,Sa.,Heim,U,1,1,Köln,3.7,0.9,52.0,26.0,Kevin Stöger,4-3-3,Matthias Jöllenbeck,Spielbericht,,25.0,9.0,168.0,1.0,0.0,0.0,2024,Bochum
+12,26.11.2023,15:30,Bundesliga,Spielwoche 12,So.,Auswärts,U,0,0,Heidenheim,0.4,0.8,51.0,15.0,Anthony Losilla,4-3-3,Felix Zwayer,Spielbericht,,10.0,2.0,218.0,0.0,0.0,0.0,2024,Bochum
+13,02.12.2023,15:30,Bundesliga,Spielwoche 13,Sa.,Heim,S,3,1,Wolfsburg,1.5,1.3,44.0,24.35,Anthony Losilla,4-2-3-1,Robert Schröder,Spielbericht,,20.0,8.0,174.0,0.0,0.0,0.0,2024,Bochum
+14,08.12.2023,20:30,Bundesliga,Spielwoche 14,Fr.,Auswärts,N,1,3,Hoffenheim,1.5,1.5,58.0,16.023,Anthony Losilla,4-3-3,Matthias Jöllenbeck,Spielbericht,,22.0,5.0,210.0,0.0,0.0,0.0,2024,Bochum
+15,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Heim,S,3,0,Union Berlin,2.8,0.7,49.0,25.3,Anthony Losilla,4-3-3,Sven Jablonski,Spielbericht,,21.0,6.0,179.0,1.0,1.0,1.0,2024,Bochum
+16,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,0,4,Leverkusen,0.4,3.3,31.0,30.21,Anthony Losilla,4-3-3,Daniel Schlager,Spielbericht,,6.0,1.0,155.0,0.0,0.0,0.0,2024,Bochum
+17,14.01.2024,15:30,Bundesliga,Spielwoche 17,So.,Heim,U,1,1,Werder Bremen,0.7,0.8,49.0,26.0,Anthony Losilla,4-3-3,Tobias Stieler,Spielbericht,,14.0,4.0,182.0,0.0,0.0,0.0,2024,Bochum
+18,20.01.2024,15:30,Bundesliga,Spielwoche 18,Sa.,Heim,S,1,0,Stuttgart,0.9,1.4,38.0,26.0,Anthony Losilla,4-4-2,Bastian Dankert,Spielbericht,,6.0,1.0,160.0,0.0,0.0,0.0,2024,Bochum
+19,28.01.2024,17:30,Bundesliga,Spielwoche 19,So.,Auswärts,N,1,3,Dortmund,0.5,2.9,37.0,81.365,Anthony Losilla,4-3-3,Benjamin Brand,Spielbericht,,11.0,4.0,208.0,1.0,0.0,0.0,2024,Bochum
+20,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Heim,U,1,1,Augsburg,0.9,1.6,49.0,24.5,Anthony Losilla,4-2-3-1,Patrick Ittrich,Spielbericht,,10.0,4.0,184.0,0.0,0.0,0.0,2024,Bochum
+21,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Auswärts,U,1,1,Eint Frankfurt,1.5,2.4,47.0,57.5,Anthony Losilla,4-1-2-1-2◆,Sven Jablonski,Spielbericht,,14.0,5.0,221.0,0.0,0.0,0.0,2024,Bochum
+22,18.02.2024,17:30,Bundesliga,Spielwoche 22,So.,Heim,S,3,2,Bayern München,1.7,3.3,32.0,26.0,Anthony Losilla,4-3-3,Daniel Schlager,Spielbericht,,12.0,3.0,195.0,0.0,1.0,1.0,2024,Bochum
+23,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Auswärts,N,2,5,M'Gladbach,1.6,3.5,52.0,53.196,Kevin Stöger,4-5-1,Frank Willenborg,Spielbericht,,16.0,4.0,162.0,1.0,0.0,0.0,2024,Bochum
+24,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Heim,N,1,4,RB Leipzig,0.8,2.1,44.0,24.2,Anthony Losilla,4-2-3-1,Harm Osmers,Spielbericht,,14.0,3.0,237.0,1.0,0.0,0.0,2024,Bochum
+25,10.03.2024,15:30,Bundesliga,Spielwoche 25,So.,Heim,N,1,2,Freiburg,1.2,1.4,60.0,25.594,Anthony Losilla,4-1-3-2,Marco Fritz,Spielbericht,,24.0,7.0,167.0,0.0,0.0,0.0,2024,Bochum
+26,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,N,0,2,Mainz 05,0.7,2.5,50.0,33.0,Anthony Losilla,4-1-2-1-2◆,Matthias Jöllenbeck,Spielbericht,,11.0,1.0,161.0,0.0,0.0,0.0,2024,Bochum
+27,31.03.2024,19:30,Bundesliga,Spielwoche 27,So.,Heim,U,2,2,Darmstadt 98,1.8,0.9,57.0,25.023,Anthony Losilla,4-3-3,Sven Jablonski,Spielbericht,,21.0,7.0,153.0,0.0,0.0,0.0,2024,Bochum
+28,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,N,1,2,Köln,0.6,1.0,44.0,50.0,Anthony Losilla,4-3-1-2,Tobias Welz,Spielbericht,,11.0,2.0,135.0,0.0,0.0,0.0,2024,Bochum
+29,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,U,1,1,Heidenheim,1.2,1.1,61.0,24.414,Anthony Losilla,4-2-3-1,Patrick Ittrich,Spielbericht,,23.0,5.0,200.0,3.0,0.0,0.0,2024,Bochum
+30,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,N,0,1,Wolfsburg,1.3,0.8,54.0,26.327,Anthony Losilla,4-2-3-1,Tobias Reichel,Spielbericht,,13.0,1.0,178.0,1.0,0.0,0.0,2024,Bochum
+31,26.04.2024,20:30,Bundesliga,Spielwoche 31,Fr.,Heim,S,3,2,Hoffenheim,3.2,1.0,46.0,24.3,Anthony Losilla,4-2-3-1,Tobias Stieler,Spielbericht,,36.0,12.0,159.0,3.0,0.0,0.0,2024,Bochum
+32,05.05.2024,15:30,Bundesliga,Spielwoche 32,So.,Auswärts,S,4,3,Union Berlin,1.4,0.9,52.0,22.012,Kevin Stöger,4-2-3-1,Marco Fritz,Spielbericht,,18.0,5.0,185.0,0.0,0.0,0.0,2024,Bochum
+33,12.05.2024,19:30,Bundesliga,Spielwoche 33,So.,Heim,N,0,5,Leverkusen,0.3,4.2,33.0,26.0,Anthony Losilla,4-2-3-1,Benjamin Brand,Spielbericht,,3.0,0.0,122.0,0.0,0.0,0.0,2024,Bochum
+34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Werder Bremen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bochum
 1,20.08.2023,15:30,Bundesliga,Spielwoche 1,So.,Auswärts,N,1.0,4.0,Union Berlin,2.3,1.9,53.0,22.012,Robin Zentner,3-4-3,Tobias Stieler,Spielbericht,,8.0,1.0,185.0,0.0,0.0,2.0,2024,Mainz 05
 2,27.08.2023,15:30,Bundesliga,Spielwoche 2,So.,Heim,U,1.0,1.0,Eint Frankfurt,1.2,1.1,40.0,33.305,Robin Zentner,3-4-3,Bastian Dankert,Spielbericht,,12.0,6.0,159.0,2.0,0.0,0.0,2024,Mainz 05
 3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,N,0.0,4.0,Werder Bremen,0.5,2.7,55.0,41.0,Robin Zentner,3-4-3,Robert Schröder,Spielbericht,,13.0,3.0,184.0,1.0,0.0,0.0,2024,Mainz 05
@@ -505,44 +505,44 @@
 29,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,S,4.0,0.0,Darmstadt 98,3.6,0.5,59.0,33.0,Robin Zentner,3-4-3,Daniel Schlager,Spielbericht,,18.0,9.0,149.0,3.0,0.0,0.0,2024,Mainz 05
 30,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,S,4.0,1.0,Hoffenheim,2.1,0.5,47.0,31.0,Robin Zentner,3-4-3,Felix Zwayer,Spielbericht,,25.0,8.0,175.0,0.0,0.0,0.0,2024,Mainz 05
 31,21.04.2024,19:30,Bundesliga,Spielwoche 30,So.,Auswärts,U,1.0,1.0,Freiburg,1.0,1.1,60.0,34.3,Robin Zentner,3-4-3,Marco Fritz,Spielbericht,,16.0,3.0,189.0,1.0,0.0,0.0,2024,Mainz 05
-32,28.04.2024,17:30,Bundesliga,Spielwoche 31,So.,Heim,,,,Köln,,,,,,,,Direkter Vergleich,,,,,,,,2024,Mainz 05
-33,05.05.2024,19:30,Bundesliga,Spielwoche 32,So.,Auswärts,,,,Heidenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Mainz 05
-34,11.05.2024,18:30,Bundesliga,Spielwoche 33,Sa.,Heim,,,,Dortmund,,,,,,,,Direkter Vergleich,,,,,,,,2024,Mainz 05
+32,28.04.2024,17:30,Bundesliga,Spielwoche 31,So.,Heim,U,1.0,1.0,Köln,1.6,2.5,39.0,33.305,Robin Zentner,3-4-3,Benjamin Brand,Spielbericht,,16.0,4.0,147.0,0.0,0.0,0.0,2024,Mainz 05
+33,05.05.2024,19:30,Bundesliga,Spielwoche 32,So.,Auswärts,U,1.0,1.0,Heidenheim,1.4,0.9,54.0,15.0,Silvan Widmer,3-4-3,Sven Jablonski,Spielbericht,,10.0,3.0,148.0,0.0,0.0,0.0,2024,Mainz 05
+34,11.05.2024,18:30,Bundesliga,Spielwoche 33,Sa.,Heim,S,3.0,0.0,Dortmund,2.1,0.4,32.0,33.305,Silvan Widmer,3-4-3,Tobias Stieler,Spielbericht,,14.0,6.0,158.0,2.0,0.0,0.0,2024,Mainz 05
 35,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Wolfsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Mainz 05
-1,19.08.2023,15:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,N,0,5,Stuttgart,0.8,3.0,40.0,53.0,Anthony Losilla,3-4-3,Daniel Siebert,Spielbericht,,4.0,1.0,118.0,0.0,0.0,0.0,2024,Bochum
-2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,U,1,1,Dortmund,1.0,1.3,36.0,26.0,Anthony Losilla,3-5-2,Robert Schröder,Spielbericht,,20.0,7.0,178.0,0.0,0.0,0.0,2024,Bochum
-3,02.09.2023,15:30,Bundesliga,Spielwoche 3,Sa.,Auswärts,U,2,2,Augsburg,1.6,1.9,62.0,27.424,Anthony Losilla,3-5-2,Martin Petersen,Spielbericht,,21.0,8.0,206.0,2.0,0.0,0.0,2024,Bochum
-4,16.09.2023,18:30,Bundesliga,Spielwoche 4,Sa.,Heim,U,1,1,Eint Frankfurt,2.0,0.6,49.0,26.0,Anthony Losilla,3-5-2,Benjamin Brand,Spielbericht,,21.0,6.0,217.0,1.0,1.0,1.0,2024,Bochum
-5,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Auswärts,N,0,7,Bayern München,0.1,4.8,38.0,75.0,Anthony Losilla,3-5-2,Robert Hartmann,Spielbericht,,4.0,1.0,254.0,0.0,0.0,0.0,2024,Bochum
-6,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Heim,N,1,3,M'Gladbach,1.7,2.9,58.0,26.0,Anthony Losilla,3-5-2,Felix Brych,Spielbericht,,24.0,4.0,185.0,0.0,0.0,0.0,2024,Bochum
-7,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Auswärts,U,0,0,RB Leipzig,0.4,2.5,25.0,44.269,Anthony Losilla,3-5-2,Timo Gerach,Spielbericht,,9.0,2.0,194.0,1.0,0.0,0.0,2024,Bochum
-8,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Auswärts,N,1,2,Freiburg,1.5,2.3,42.0,33.9,Anthony Losilla,3-4-3,Tobias Reichel,Spielbericht,,13.0,3.0,191.0,0.0,0.0,0.0,2024,Bochum
-9,27.10.2023,20:30,Bundesliga,Spielwoche 9,Fr.,Heim,U,2,2,Mainz 05,1.4,0.4,50.0,26.0,Anthony Losilla,3-4-3,Patrick Ittrich,Spielbericht,,11.0,3.0,193.0,0.0,1.0,1.0,2024,Bochum
-10,03.11.2023,20:30,Bundesliga,Spielwoche 10,Fr.,Auswärts,S,2,1,Darmstadt 98,1.2,0.7,42.0,17.81,Anthony Losilla,4-3-3,Marco Fritz,Spielbericht,,9.0,4.0,197.0,1.0,0.0,0.0,2024,Bochum
-11,11.11.2023,18:30,Bundesliga,Spielwoche 11,Sa.,Heim,U,1,1,Köln,3.7,0.9,52.0,26.0,Kevin Stöger,4-3-3,Matthias Jöllenbeck,Spielbericht,,25.0,9.0,168.0,1.0,0.0,0.0,2024,Bochum
-12,26.11.2023,15:30,Bundesliga,Spielwoche 12,So.,Auswärts,U,0,0,Heidenheim,0.4,0.8,51.0,15.0,Anthony Losilla,4-3-3,Felix Zwayer,Spielbericht,,10.0,2.0,218.0,0.0,0.0,0.0,2024,Bochum
-13,02.12.2023,15:30,Bundesliga,Spielwoche 13,Sa.,Heim,S,3,1,Wolfsburg,1.5,1.3,44.0,24.35,Anthony Losilla,4-2-3-1,Robert Schröder,Spielbericht,,20.0,8.0,174.0,0.0,0.0,0.0,2024,Bochum
-14,08.12.2023,20:30,Bundesliga,Spielwoche 14,Fr.,Auswärts,N,1,3,Hoffenheim,1.5,1.5,58.0,16.023,Anthony Losilla,4-3-3,Matthias Jöllenbeck,Spielbericht,,22.0,5.0,210.0,0.0,0.0,0.0,2024,Bochum
-15,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Heim,S,3,0,Union Berlin,2.8,0.7,49.0,25.3,Anthony Losilla,4-3-3,Sven Jablonski,Spielbericht,,21.0,6.0,179.0,1.0,1.0,1.0,2024,Bochum
-16,20.12.2023,20:30,Bundesliga,Spielwoche 16,Mi.,Auswärts,N,0,4,Leverkusen,0.4,3.3,31.0,30.21,Anthony Losilla,4-3-3,Daniel Schlager,Spielbericht,,6.0,1.0,155.0,0.0,0.0,0.0,2024,Bochum
-17,14.01.2024,15:30,Bundesliga,Spielwoche 17,So.,Heim,U,1,1,Werder Bremen,0.7,0.8,49.0,26.0,Anthony Losilla,4-3-3,Tobias Stieler,Spielbericht,,14.0,4.0,182.0,0.0,0.0,0.0,2024,Bochum
-18,20.01.2024,15:30,Bundesliga,Spielwoche 18,Sa.,Heim,S,1,0,Stuttgart,0.9,1.4,38.0,26.0,Anthony Losilla,4-4-2,Bastian Dankert,Spielbericht,,6.0,1.0,160.0,0.0,0.0,0.0,2024,Bochum
-19,28.01.2024,17:30,Bundesliga,Spielwoche 19,So.,Auswärts,N,1,3,Dortmund,0.5,2.9,37.0,81.365,Anthony Losilla,4-3-3,Benjamin Brand,Spielbericht,,11.0,4.0,208.0,1.0,0.0,0.0,2024,Bochum
-20,03.02.2024,15:30,Bundesliga,Spielwoche 20,Sa.,Heim,U,1,1,Augsburg,0.9,1.6,49.0,24.5,Anthony Losilla,4-2-3-1,Patrick Ittrich,Spielbericht,,10.0,4.0,184.0,0.0,0.0,0.0,2024,Bochum
-21,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Auswärts,U,1,1,Eint Frankfurt,1.5,2.4,47.0,57.5,Anthony Losilla,4-1-2-1-2◆,Sven Jablonski,Spielbericht,,14.0,5.0,221.0,0.0,0.0,0.0,2024,Bochum
-22,18.02.2024,17:30,Bundesliga,Spielwoche 22,So.,Heim,S,3,2,Bayern München,1.7,3.3,32.0,26.0,Anthony Losilla,4-3-3,Daniel Schlager,Spielbericht,,12.0,3.0,195.0,0.0,1.0,1.0,2024,Bochum
-23,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Auswärts,N,2,5,M'Gladbach,1.6,3.5,52.0,53.196,Kevin Stöger,4-5-1,Frank Willenborg,Spielbericht,,16.0,4.0,162.0,1.0,0.0,0.0,2024,Bochum
-24,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Heim,N,1,4,RB Leipzig,0.8,2.1,44.0,24.2,Anthony Losilla,4-2-3-1,Harm Osmers,Spielbericht,,14.0,3.0,237.0,1.0,0.0,0.0,2024,Bochum
-25,10.03.2024,15:30,Bundesliga,Spielwoche 25,So.,Heim,N,1,2,Freiburg,1.2,1.4,60.0,25.594,Anthony Losilla,4-1-3-2,Marco Fritz,Spielbericht,,24.0,7.0,167.0,0.0,0.0,0.0,2024,Bochum
-26,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Auswärts,N,0,2,Mainz 05,0.7,2.5,50.0,33.0,Anthony Losilla,4-1-2-1-2◆,Matthias Jöllenbeck,Spielbericht,,11.0,1.0,161.0,0.0,0.0,0.0,2024,Bochum
-27,31.03.2024,19:30,Bundesliga,Spielwoche 27,So.,Heim,U,2,2,Darmstadt 98,1.8,0.9,57.0,,Anthony Losilla,4-3-3,Sven Jablonski,Spielbericht,,21.0,7.0,153.0,0.0,0.0,0.0,2024,Bochum
-28,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,N,1,2,Köln,0.6,1.0,44.0,50.0,Anthony Losilla,4-3-1-2,Tobias Welz,Spielbericht,,11.0,2.0,135.0,0.0,0.0,0.0,2024,Bochum
-29,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Heim,U,1,1,Heidenheim,1.2,1.1,61.0,24.414,Anthony Losilla,4-2-3-1,Patrick Ittrich,Spielbericht,,23.0,5.0,200.0,3.0,0.0,0.0,2024,Bochum
-30,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,N,0,1,Wolfsburg,1.3,0.8,54.0,26.327,Anthony Losilla,4-2-3-1,Tobias Reichel,Spielbericht,,13.0,1.0,178.0,1.0,0.0,0.0,2024,Bochum
-31,26.04.2024,20:30,Bundesliga,Spielwoche 31,Fr.,Heim,,,,Hoffenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bochum
-32,05.05.2024,15:30,Bundesliga,Spielwoche 32,So.,Auswärts,,,,Union Berlin,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bochum
-33,12.05.2024,19:30,Bundesliga,Spielwoche 33,So.,Heim,,,,Leverkusen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bochum
-34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Werder Bremen,,,,,,,,Direkter Vergleich,,,,,,,,2024,Bochum
+1,20.08.2023,15:30,Bundesliga,Spielwoche 1,So.,Heim,S,4.0,1.0,Mainz 05,1.9,2.3,47.0,22.012,Christopher Trimmel,5-3-2,Tobias Stieler,Spielbericht,,11.0,6.0,148.0,2.0,0.0,0.0,2024,Union Berlin
+2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Auswärts,S,4.0,1.0,Darmstadt 98,1.7,2.3,27.0,17.81,Danilho Doekhi,3-5-2,Patrick Ittrich,Spielbericht,,13.0,6.0,153.0,0.0,0.0,0.0,2024,Union Berlin
+3,03.09.2023,17:30,Bundesliga,Spielwoche 3,So.,Heim,N,0.0,3.0,RB Leipzig,0.3,1.2,36.0,22.012,Danilho Doekhi,3-4-3,Daniel Schlager,Spielbericht,,3.0,1.0,217.0,1.0,0.0,0.0,2024,Union Berlin
+4,16.09.2023,15:30,Bundesliga,Spielwoche 4,Sa.,Auswärts,N,1.0,2.0,Wolfsburg,1.1,0.4,56.0,21.917,Christopher Trimmel,3-5-2,Felix Brych,Spielbericht,,19.0,6.0,148.0,0.0,0.0,0.0,2024,Union Berlin
+6,23.09.2023,15:30,Bundesliga,Spielwoche 5,Sa.,Heim,N,0.0,2.0,Hoffenheim,1.6,2.0,57.0,20.0,Sheraldo Becker,3-5-2,Deniz Aytekin,Spielbericht,,22.0,5.0,152.0,0.0,0.0,0.0,2024,Union Berlin
+7,30.09.2023,15:30,Bundesliga,Spielwoche 6,Sa.,Auswärts,N,0.0,1.0,Heidenheim,2.2,0.8,50.0,15.0,Christopher Trimmel,3-4-3,Sascha Stegemann,Spielbericht,,20.0,8.0,169.0,2.0,0.0,0.0,2024,Union Berlin
+9,07.10.2023,15:30,Bundesliga,Spielwoche 7,Sa.,Auswärts,N,2.0,4.0,Dortmund,1.4,1.6,34.0,81.365,Christopher Trimmel,5-3-2,Patrick Ittrich,Spielbericht,,12.0,4.0,187.0,0.0,1.0,1.0,2024,Union Berlin
+10,21.10.2023,15:30,Bundesliga,Spielwoche 8,Sa.,Heim,N,0.0,3.0,Stuttgart,0.6,1.4,43.0,22.012,Christopher Trimmel,3-5-2,Bastian Dankert,Spielbericht,,9.0,1.0,182.0,0.0,0.0,0.0,2024,Union Berlin
+12,28.10.2023,15:30,Bundesliga,Spielwoche 9,Sa.,Auswärts,N,0.0,2.0,Werder Bremen,0.6,0.8,44.0,42.1,Christopher Trimmel,3-5-2,Tobias Stieler,Spielbericht,,7.0,2.0,184.0,0.0,0.0,0.0,2024,Union Berlin
+14,04.11.2023,15:30,Bundesliga,Spielwoche 10,Sa.,Heim,N,0.0,3.0,Eint Frankfurt,0.7,1.6,50.0,22.012,Christopher Trimmel,5-4-1,Sven Jablonski,Spielbericht,,11.0,3.0,185.0,0.0,0.0,0.0,2024,Union Berlin
+16,12.11.2023,15:30,Bundesliga,Spielwoche 11,So.,Auswärts,N,0.0,4.0,Leverkusen,0.0,2.4,31.0,29.387,Sheraldo Becker,3-4-3,Timo Gerach,Spielbericht,,2.0,2.0,204.0,0.0,0.0,0.0,2024,Union Berlin
+17,25.11.2023,15:30,Bundesliga,Spielwoche 12,Sa.,Heim,U,1.0,1.0,Augsburg,2.1,1.7,61.0,22.012,Christopher Trimmel,3-4-3,Florian Badstübner,Spielbericht,,14.0,5.0,173.0,0.0,0.0,1.0,2024,Union Berlin
+19,09.12.2023,15:30,Bundesliga,Spielwoche 14,Sa.,Heim,S,3.0,1.0,M'Gladbach,2.1,1.1,38.0,22.012,Rani Khedira,4-2-3-1,Martin Petersen,Spielbericht,,15.0,5.0,168.0,1.0,1.0,1.0,2024,Union Berlin
+21,16.12.2023,15:30,Bundesliga,Spielwoche 15,Sa.,Auswärts,N,0.0,3.0,Bochum,0.7,2.8,51.0,25.3,Rani Khedira,4-2-3-1,Sven Jablonski,Spielbericht,,9.0,1.0,130.0,0.0,0.0,0.0,2024,Union Berlin
+22,20.12.2023,18:30,Bundesliga,Spielwoche 16,Mi.,Heim,S,2.0,0.0,Köln,1.5,0.8,40.0,22.012,Rani Khedira,4-3-3,Deniz Aytekin,Spielbericht,,11.0,6.0,132.0,0.0,0.0,0.0,2024,Union Berlin
+23,13.01.2024,15:30,Bundesliga,Spielwoche 17,Sa.,Auswärts,U,0.0,0.0,Freiburg,0.5,1.8,43.0,33.8,Jérôme Roussillon,5-3-2,Christian Dingert,Spielbericht,,9.0,4.0,184.0,0.0,0.0,0.0,2024,Union Berlin
+24,24.01.2024,20:30,Bundesliga,Spielwoche 13,Mi.,Auswärts,N,0.0,1.0,Bayern München,0.2,2.1,28.0,75.0,Christopher Trimmel,5-3-2,Frank Willenborg,Spielbericht,,4.0,1.0,193.0,0.0,0.0,0.0,2024,Union Berlin
+25,28.01.2024,15:30,Bundesliga,Spielwoche 19,So.,Heim,S,1.0,0.0,Darmstadt 98,2.5,1.1,50.0,21.786,Christopher Trimmel,3-5-2,Harm Osmers,Spielbericht,,21.0,6.0,149.0,0.0,0.0,0.0,2024,Union Berlin
+26,04.02.2024,17:30,Bundesliga,Spielwoche 20,So.,Auswärts,N,0.0,2.0,RB Leipzig,0.5,1.1,34.0,44.032,Christopher Trimmel,3-5-2,Marco Fritz,Spielbericht,,10.0,2.0,193.0,0.0,0.0,0.0,2024,Union Berlin
+27,07.02.2024,18:30,Bundesliga,Spielwoche 18,Mi.,Auswärts,U,1.0,1.0,Mainz 05,1.0,1.3,54.0,26.2,Rani Khedira,3-5-2,Martin Petersen,Spielbericht,,16.0,4.0,167.0,0.0,0.0,0.0,2024,Union Berlin
+28,10.02.2024,15:30,Bundesliga,Spielwoche 21,Sa.,Heim,S,1.0,0.0,Wolfsburg,0.5,1.3,42.0,22.0,Rani Khedira,3-5-2,Matthias Jöllenbeck,Spielbericht,,8.0,1.0,157.0,0.0,0.0,0.0,2024,Union Berlin
+29,17.02.2024,15:30,Bundesliga,Spielwoche 22,Sa.,Auswärts,S,1.0,0.0,Hoffenheim,1.4,1.0,34.0,19.05,Christopher Trimmel,3-5-2,Robert Hartmann,Spielbericht,,10.0,3.0,170.0,1.0,0.0,0.0,2024,Union Berlin
+30,24.02.2024,15:30,Bundesliga,Spielwoche 23,Sa.,Heim,U,2.0,2.0,Heidenheim,1.1,1.1,58.0,21.341,Rani Khedira,3-5-2,Deniz Aytekin,Spielbericht,,12.0,3.0,167.0,0.0,0.0,0.0,2024,Union Berlin
+31,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Heim,N,0.0,2.0,Dortmund,1.2,1.6,39.0,22.012,Rani Khedira,3-5-2,Christian Dingert,Spielbericht,,14.0,3.0,167.0,0.0,0.0,0.0,2024,Union Berlin
+32,08.03.2024,20:30,Bundesliga,Spielwoche 25,Fr.,Auswärts,N,0.0,2.0,Stuttgart,0.9,1.0,30.0,53.8,Rani Khedira,5-4-1,Robert Schröder,Spielbericht,,9.0,4.0,163.0,0.0,0.0,0.0,2024,Union Berlin
+33,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Heim,S,2.0,1.0,Werder Bremen,1.1,1.1,50.0,22.012,Christopher Trimmel,3-4-1-2,Daniel Schlager,Spielbericht,,11.0,6.0,155.0,0.0,0.0,0.0,2024,Union Berlin
+34,30.03.2024,15:30,Bundesliga,Spielwoche 27,Sa.,Auswärts,U,0.0,0.0,Eint Frankfurt,1.5,1.0,35.0,57.1,Christopher Trimmel,3-4-3,Marco Fritz,Spielbericht,,11.0,2.0,152.0,0.0,0.0,0.0,2024,Union Berlin
+35,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,N,0.0,1.0,Leverkusen,0.3,2.8,35.0,22.012,Christopher Trimmel,3-5-2,Benjamin Brand,Spielbericht,,9.0,0.0,166.0,0.0,0.0,0.0,2024,Union Berlin
+36,12.04.2024,20:30,Bundesliga,Spielwoche 29,Fr.,Auswärts,N,0.0,2.0,Augsburg,1.6,1.6,53.0,29.731,Christopher Trimmel,3-5-2,Tobias Stieler,Spielbericht,,17.0,3.0,130.0,0.0,0.0,0.0,2024,Union Berlin
+37,20.04.2024,18:30,Bundesliga,Spielwoche 30,Sa.,Heim,N,1.0,5.0,Bayern München,1.4,1.4,37.0,22.012,Christopher Trimmel,3-5-2,Sven Jablonski,Spielbericht,,15.0,4.0,145.0,0.0,0.0,0.0,2024,Union Berlin
+38,28.04.2024,15:30,Bundesliga,Spielwoche 31,So.,Auswärts,U,0.0,0.0,M'Gladbach,1.0,0.9,48.0,53.723,Rani Khedira,3-4-1-2,Sascha Stegemann,Spielbericht,,14.0,7.0,215.0,0.0,0.0,0.0,2024,Union Berlin
+39,05.05.2024,15:30,Bundesliga,Spielwoche 32,So.,Heim,N,3.0,4.0,Bochum,0.9,1.4,48.0,22.012,Rani Khedira,3-5-2,Marco Fritz,Spielbericht,,12.0,5.0,159.0,0.0,0.0,0.0,2024,Union Berlin
+40,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Auswärts,N,2.0,3.0,Köln,1.6,3.1,38.0,50.0,Christopher Trimmel,3-4-3,Deniz Aytekin,Spielbericht,,12.0,5.0,167.0,0.0,1.0,1.0,2024,Union Berlin
+41,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Heim,,,,Freiburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Union Berlin
 1,19.08.2023,18:30,Bundesliga,Spielwoche 1,Sa.,Auswärts,N,0.0,1.0,Dortmund,1.2,1.8,34.0,81.365,Florian Kainz,4-2-3-1,Deniz Aytekin,Spielbericht,,11.0,4.0,165.0,0.0,0.0,0.0,2024,Koln
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,N,1.0,2.0,Wolfsburg,0.9,1.7,50.0,49.5,Florian Kainz,4-2-3-1,Matthias Jöllenbeck,Spielbericht,,13.0,2.0,199.0,0.0,0.0,0.0,2024,Koln
 3,03.09.2023,15:30,Bundesliga,Spielwoche 3,So.,Auswärts,U,1.0,1.0,Eint Frankfurt,0.9,1.1,35.0,54.0,Florian Kainz,4-1-4-1,Florian Badstübner,Spielbericht,,6.0,1.0,253.0,0.0,1.0,1.0,2024,Koln
@@ -573,9 +573,9 @@
 29,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Heim,S,2.0,1.0,Bochum,1.0,0.6,56.0,50.0,Florian Kainz,4-2-3-1,Tobias Welz,Spielbericht,,20.0,7.0,163.0,0.0,0.0,0.0,2024,Koln
 30,13.04.2024,15:30,Bundesliga,Spielwoche 29,Sa.,Auswärts,N,0.0,2.0,Bayern München,0.9,2.2,31.0,75.0,Florian Kainz,4-4-2,Frank Willenborg,Spielbericht,,11.0,5.0,185.0,0.0,0.0,0.0,2024,Koln
 31,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Heim,N,0.0,2.0,Darmstadt 98,1.0,1.8,58.0,50.0,Florian Kainz,4-4-2,Matthias Jöllenbeck,Spielbericht,,19.0,4.0,172.0,0.0,0.0,0.0,2024,Koln
-32,28.04.2024,17:30,Bundesliga,Spielwoche 31,So.,Auswärts,,,,Mainz 05,,,,,,,,Direkter Vergleich,,,,,,,,2024,Koln
-33,04.05.2024,18:30,Bundesliga,Spielwoche 32,Sa.,Heim,,,,Freiburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Koln
-34,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,,,,Union Berlin,,,,,,,,Direkter Vergleich,,,,,,,,2024,Koln
+32,28.04.2024,17:30,Bundesliga,Spielwoche 31,So.,Auswärts,U,1.0,1.0,Mainz 05,2.5,1.6,61.0,33.305,Marvin Schwäbe,4-2-3-1,Benjamin Brand,Spielbericht,,15.0,5.0,202.0,0.0,1.0,2.0,2024,Koln
+33,04.05.2024,18:30,Bundesliga,Spielwoche 32,Sa.,Heim,U,0.0,0.0,Freiburg,0.9,0.8,56.0,50.0,Marvin Schwäbe,4-2-3-1,Sören Storks,Spielbericht,,19.0,7.0,218.0,0.0,0.0,0.0,2024,Koln
+34,11.05.2024,15:30,Bundesliga,Spielwoche 33,Sa.,Heim,S,3.0,2.0,Union Berlin,3.1,1.6,62.0,50.0,Florian Kainz,4-2-3-1,Deniz Aytekin,Spielbericht,,17.0,4.0,163.0,0.0,1.0,1.0,2024,Koln
 35,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Heidenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Koln
 1,20.08.2023,17:30,Bundesliga,Spielwoche 1,So.,Auswärts,N,0.0,1.0,Eint Frankfurt,0.5,1.5,39.0,54.0,Fabian Holland,3-4-3,Harm Osmers,Spielbericht,,10.0,2.0,190.0,0.0,0.0,0.0,2024,Darmstadt 98
 2,26.08.2023,15:30,Bundesliga,Spielwoche 2,Sa.,Heim,N,1.0,4.0,Union Berlin,2.3,1.7,73.0,17.81,Fabian Holland,3-4-3,Patrick Ittrich,Spielbericht,,21.0,6.0,160.0,0.0,0.0,0.0,2024,Darmstadt 98
@@ -603,13 +603,13 @@
 24,02.03.2024,15:30,Bundesliga,Spielwoche 24,Sa.,Heim,N,0.0,6.0,Augsburg,0.8,2.9,46.0,17.81,Fabian Holland,3-4-1-2,Felix Zwayer,Spielbericht,,10.0,5.0,207.0,1.0,0.0,0.0,2024,Darmstadt 98
 25,09.03.2024,15:30,Bundesliga,Spielwoche 25,Sa.,Auswärts,N,0.0,2.0,RB Leipzig,0.5,3.2,36.0,40.0,Tobias Kempe,4-2-2-2,Robert Hartmann,Spielbericht,,9.0,4.0,188.0,0.0,0.0,0.0,2024,Darmstadt 98
 26,16.03.2024,15:30,Bundesliga,Spielwoche 26,Sa.,Heim,N,2.0,5.0,Bayern München,1.2,3.6,24.0,17.81,Fabian Holland,4-4-2,Tobias Reichel,Spielbericht,,7.0,3.0,162.0,0.0,0.0,0.0,2024,Darmstadt 98
-27,31.03.2024,19:30,Bundesliga,Spielwoche 27,So.,Auswärts,U,2.0,2.0,Bochum,0.9,1.8,43.0,,Marcel Schuhen,4-1-3-2,Sven Jablonski,Spielbericht,,12.0,3.0,193.0,0.0,0.0,0.0,2024,Darmstadt 98
+27,31.03.2024,19:30,Bundesliga,Spielwoche 27,So.,Auswärts,U,2.0,2.0,Bochum,0.9,1.8,43.0,25.023,Marcel Schuhen,4-1-3-2,Sven Jablonski,Spielbericht,,12.0,3.0,193.0,0.0,0.0,0.0,2024,Darmstadt 98
 28,06.04.2024,15:30,Bundesliga,Spielwoche 28,Sa.,Auswärts,N,0.0,4.0,Mainz 05,0.5,3.6,41.0,33.0,Fabian Holland,4-1-3-2,Daniel Schlager,Spielbericht,,14.0,2.0,235.0,0.0,0.0,0.0,2024,Darmstadt 98
 29,14.04.2024,15:30,Bundesliga,Spielwoche 29,So.,Heim,N,0.0,1.0,Freiburg,1.1,0.9,53.0,17.81,Fabian Holland,3-4-1-2,Sascha Stegemann,Spielbericht,,17.0,4.0,205.0,0.0,0.0,0.0,2024,Darmstadt 98
 30,20.04.2024,15:30,Bundesliga,Spielwoche 30,Sa.,Auswärts,S,2.0,0.0,Köln,1.8,1.0,42.0,50.0,Tobias Kempe,3-4-3,Matthias Jöllenbeck,Spielbericht,,12.0,6.0,199.0,0.0,0.0,0.0,2024,Darmstadt 98
-31,28.04.2024,19:30,Bundesliga,Spielwoche 31,So.,Heim,,,,Heidenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Darmstadt 98
-32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,,,,Wolfsburg,,,,,,,,Direkter Vergleich,,,,,,,,2024,Darmstadt 98
-33,12.05.2024,15:30,Bundesliga,Spielwoche 33,So.,Heim,,,,Hoffenheim,,,,,,,,Direkter Vergleich,,,,,,,,2024,Darmstadt 98
+31,28.04.2024,19:30,Bundesliga,Spielwoche 31,So.,Heim,N,0.0,1.0,Heidenheim,0.7,1.6,45.0,17.416,Tobias Kempe,3-4-1-2,Bastian Dankert,Spielbericht,,11.0,3.0,202.0,1.0,0.0,0.0,2024,Darmstadt 98
+32,04.05.2024,15:30,Bundesliga,Spielwoche 32,Sa.,Auswärts,N,0.0,3.0,Wolfsburg,0.4,2.2,47.0,23.108,Marvin Mehlem,3-4-1-2,Robert Hartmann,Spielbericht,,6.0,1.0,196.0,1.0,0.0,0.0,2024,Darmstadt 98
+33,12.05.2024,15:30,Bundesliga,Spielwoche 33,So.,Heim,N,0.0,6.0,Hoffenheim,0.6,3.4,41.0,17.81,Marvin Mehlem,3-4-3,Florian Badstübner,Spielbericht,,10.0,0.0,197.0,0.0,0.0,0.0,2024,Darmstadt 98
 34,18.05.2024,15:30,Bundesliga,Spielwoche 34,Sa.,Auswärts,,,,Dortmund,,,,,,,,Direkter Vergleich,,,,,,,,2024,Darmstadt 98
 1,05.08.2022,20:30,Bundesliga,Spielwoche 1,Fr.,Auswärts,S,6.0,1.0,Eint Frankfurt,4.0,0.9,63.0,51.5,Manuel Neuer,4-4-2,Deniz Aytekin,Spielbericht,,23.0,10.0,166.0,1.0,0.0,0.0,2023,Bayern Munich
 2,14.08.2022,17:30,Bundesliga,Spielwoche 2,So.,Heim,S,2.0,0.0,Wolfsburg,2.0,0.5,68.0,75.0,Manuel Neuer,4-2-3-1,Harm Osmers,Spielbericht,,24.0,8.0,184.0,0.0,0.0,0.0,2023,Bayern Munich
